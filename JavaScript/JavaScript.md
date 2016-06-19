@@ -1,14 +1,17 @@
 #JavaScript
 
-#
 
+[생활코딩_비교(3/4)](http://opentutorials.org/module/532/4722) : ===를 사용하자
 
-[생활코딩_비교(3/4)](https://youtu.be/rN0045zf-y4?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) : ===를 사용하자
+[강의영상](https://youtu.be/rN0045zf-y4?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
+
 
 == : 동등연산자
+
 === : 일치연산자
 
-DataType
+
+###DataType
 
 `undefined` : 값이 없다. 프로그래머가 의도하지 않은 상황
 
@@ -59,3 +62,9 @@ alert(NaN === NaN);         //false
 : null
 
 ---
+
+생활코딩_비교(4/4)](http://opentutorials.org/module/532/4722) : 부정과 부등호
+
+[강의영상](https://youtu.be/rN0045zf-y4?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
+
+
