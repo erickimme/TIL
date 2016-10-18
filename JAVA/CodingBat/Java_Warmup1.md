@@ -47,7 +47,7 @@ notString("x") → "not x"
 notString("not bad") → "not bad"
 
 ### My Work
-1 equals()
+1. using "equals()"
 ```java
 public String notString(String str) {
  if (str.length() >=3 && str.substring(0,3).equals("not")){ 
@@ -58,7 +58,7 @@ public String notString(String str) {
  }
 }
 ```
-2. startWtih()
+2. using "startsWtih()"
 ```java
 public String notString(String str) {
  if (str.startsWith("not")){ 
