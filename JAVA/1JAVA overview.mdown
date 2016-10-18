@@ -1,8 +1,0 @@
-# JAVA STUDY
-
-## Table of Contents
--[Starting Java :: JAVA 시작하기]
--[Java Basic Grammar/Syntax :: JAVA의 기초 문법]
--[Primitive Type :: 프리미티브 타입] 
--[Operator :: 연산자]
--
