@@ -35,6 +35,55 @@ public boolean posNeg(int a, int b, boolean negative) {
 }
 ```
 =====
+## Problem : Warmup-1 > notString 
+Given a string, return a new string where "not " has been added to the front. 
+
+However, if the string already begins with "not", return the string unchanged. Note: use .equals() to compare 2 strings.
+
+notString("candy") → "not candy"
+
+notString("x") → "not x"
+
+notString("not bad") → "not bad"
+
+### My Work
+1 equals()
+```java
+public String notString(String str) {
+ if (str.length() >=3 && str.substring(0,3).equals("not")){ 
+  return str;
+ }
+ else {
+   return "not " +str;
+ }
+}
+```
+2. startWtih()
+```java
+public String notString(String str) {
+ if (str.startsWith("not")){ 
+  return str;
+ }
+ else {
+   return "not " +str;
+ }
+}
+```
+### Solution
+```java
+public String notString(String str) {
+  if (str.length() >= 3 && str.substring(0, 3).equals("not")) {
+    return str;
+  }
+  
+  return "not " + str;
+}
+```
+=====
+
+
+
+
 
 
 
