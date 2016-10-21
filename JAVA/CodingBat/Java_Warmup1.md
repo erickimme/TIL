@@ -112,7 +112,37 @@ public String missingChar(String str, int n) {
 }
 ```
 =====
+## Problem : Warmup-1 > frontBack
+Given a string, return a new string where the first and last chars have been exchanged.
 
+frontBack("code") → "eodc"
+
+frontBack("a") → "a"
+
+frontBack("ab") → "ba"
+
+### My Work
+```java
+public String missingChar(String str, int n) {
+  String before = str.substring(0,n);
+  String after = str.substring(n+1, str.length());
+  String conc = before + after;
+  return conc;
+}
+```
+### Solution
+```java
+public String missingChar(String str, int n) {
+  String front = str.substring(0, n);
+  
+  // Start this substring at n+1 to omit the char.
+  // Can also be shortened to just str.substring(n+1)
+  // which goes through the end of the string.
+  String back = str.substring(n+1, str.length());
+  
+  return front + back;
+}
+```
 
 
 
