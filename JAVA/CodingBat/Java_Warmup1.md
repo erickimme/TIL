@@ -123,26 +123,32 @@ frontBack("ab") → "ba"
 
 ### My Work
 ```java
-public String missingChar(String str, int n) {
-  String before = str.substring(0,n);
-  String after = str.substring(n+1, str.length());
-  String conc = before + after;
-  return conc;
+public String frontBack(String str) {
+  if (str.length() <=1) {
+  return str;
+  }
+  int len = str.length();
+  char first = str.charAt(0);
+  char last = str.charAt(len-1);
+  String mid = str.substring(1, len-1);
+  //code -> c + od + e ----> first and last needed to be swapped
+  // last + mid + first
+  return last + mid + first;
 }
 ```
 ### Solution
 ```java
-public String missingChar(String str, int n) {
-  String front = str.substring(0, n);
+public String frontBack(String str) {
+  if (str.length() <= 1) return str;
   
-  // Start this substring at n+1 to omit the char.
-  // Can also be shortened to just str.substring(n+1)
-  // which goes through the end of the string.
-  String back = str.substring(n+1, str.length());
+  String mid = str.substring(1, str.length()-1);
   
-  return front + back;
+  // last + mid + first
+  return str.charAt(str.length()-1) + mid + str.charAt(0);
 }
 ```
+=====
+
 
 
 
