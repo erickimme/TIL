@@ -188,13 +188,32 @@ public String front3(String str) {
 }
 ```
 =====
-## Problem : 
+## Problem : Warmup-1 > backAround 
+Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt". The original string will be length 1 or more.
+
+backAround("cat") → "tcatt"
+
+backAround("Hello") → "oHelloo"
+
+backAround("a") → "aaa"
 
 ### My Work
 ```java
+public String backAround(String str) {
+  int len = str.length();
+  char last;
+  last = str.charAt(len-1);
+  
+  return last + str.substring(0,len) + last;
+}
 ```
 ### Solution
 ```java
+public String backAround(String str) {
+  // Get the last char
+  String last = str.substring(str.length() - 1);
+  return last + str + last;
+}
 ```
 =====
 ## Problem : 
