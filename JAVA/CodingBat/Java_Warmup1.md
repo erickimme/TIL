@@ -377,6 +377,82 @@ public boolean icyHot(int temp1, int temp2) {
 
 ```
 =====
+## Problem : Warmup-1 > in1020 
+Given 2 int values, return true if either of them is in the range 10..20 inclusive.
+
+in1020(12, 99) → true
+
+in1020(21, 12) → true
+
+in1020(8, 99) → false
+
+### My Work
+```java
+public boolean in1020(int a, int b) {
+  if((a >= 10 && a <= 20) || (b >= 10 && b <= 20)){
+    return true;
+  } else {
+    return false;
+  }
+}
+
+```
+### Solution
+```java
+public boolean in1020(int a, int b) {
+  return ((a >= 10 && a <= 20) || (b >= 10 && b <= 20));
+}
+```
+=====
+## Problem : 
+
+### My Work
+```java
+```
+### Solution
+```java
+```
+=====
+## Problem : 
+
+### My Work
+```java
+```
+### Solution
+```java
+```
+=====
+## Problem : 
+
+### My Work
+```java
+```
+### Solution
+```java
+```
+=====
+## Problem : 
+
+### My Work
+```java
+```
+### Solution
+```java
+```
+=====
+## Problem : 
+
+### My Work
+```java
+```
+### Solution
+```java
+```
+=====
+
+
+
+
 
 
 
