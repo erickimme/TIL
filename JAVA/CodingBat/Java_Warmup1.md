@@ -470,8 +470,14 @@ public boolean loneTeen(int a, int b) {
 }
 ```
 =====
-## Problem : 
+## Problem : Warmup-1 > delDel 
+Given a string, if the string "del" appears starting at index 1, return a string where that "del" has been deleted. Otherwise, return the string unchanged.
 
+delDel("adelbc") → "abc"
+
+delDel("adelHello") → "aHello"
+
+delDel("adedbc") → "adedbc"
 ### My Work
 ```java
 ```
