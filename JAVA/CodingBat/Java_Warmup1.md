@@ -480,9 +480,28 @@ delDel("adelHello") → "aHello"
 delDel("adedbc") → "adedbc"
 ### My Work
 ```java
+public String delDel(String str) {
+  if (str.length() >= 4 && str.substring(1,4).equals("del")) {
+    //before "del"
+    String before = str.substring(0,1);
+    //after "del"
+    String after = str.substring(4,str.length());
+    return before + after;
+  } else{
+    return str;
+  }
+}
 ```
 ### Solution
 ```java
+public String delDel(String str) {
+  if (str.length()>=4 && str.substring(1, 4).equals("del")) {
+    // First char + rest of string starting at 4
+    return str.substring(0, 1) + str.substring(4);
+  }
+  // Otherwise return the original string.
+  return str;
+}
 ```
 =====
 ## Problem : 
