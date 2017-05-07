@@ -59,9 +59,7 @@ escape code
 operation
 -number
 -string
+
     -concatenation
-    >>head = "Python"
-    tail = "is funs@                                                     "
-    -multiplication
 
 
