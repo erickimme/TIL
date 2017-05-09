@@ -129,11 +129,37 @@ print "I ate %d apples. so I was sick for %s days. " % (number1, day) # I ate 10
 # %f = 부동소수 (floating-point)
 # %o = 8진수
 # %x =  16진수
-#L %% = Literal % (문자 % 자체)
+# L %% = Literal % (문자 % 자체)
 
-# Examle)
+# |Example|
 print "I have %s apples" %3
-print "rate is %s" %3.234 # rate is 3.024
+print "rate is %s" %3.234 # rate is 3.234 -> 여기서 3.234는 string format으로 저장된다.
+
+####################################
+# 2017.05.09 (Tues) pg 55~56 
+# 1. 문자열 포맷 코드
+# 2. 포맷 코드와 숫자 함께 사용하기
+# 내일 공부 : 2) 소수점 표현하기 부터 시작
+####################################
+
+#1. Formatting Operator (%d) 와 % 를 같이 사용할 때는 ---> %%
+# 무슨 말이냐면 %라는 기호를 쓰고 싶은데 그 앞에 숫자는 바꾸고 싶음. 그런데 %d % 하면 인식을 못함 
+# 파이썬 룰에 따라서 %d%%로 써줘야지 %d 가 % 뒤에 입력된 숫자를 입력 받음
+# |Example|
+# Wrong : "Error is %d%." % 98 
+# Fixed : "Error is %d%%." %98 #Error is 98%.
+print "Error is %d%%." % 95  #Error is 95%.
+
+#2. 포맷 코드와 숫자 함께 사용하기
+#1)정렬과 공백
+print "%10s" % "hi" #'	hi' -> 이런식으로 hi 앞에 공백이 생긴채 출력된다.
+# 통역 : 길이가 10개인 문자열에서 hi를 오른쪽에 정렬하고 나머지는 공백 즉, 10칸 중 2칸은 hi가 들어가있고 나머지 8칸은 비어있음
+
+print "%-10sjane." % 'hi' #'hi        jane.' -> hi를 왼쪽 정렬, 나머지 공백
+
+
+
+
 
 
 
