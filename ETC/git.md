@@ -81,9 +81,13 @@ Version Control, 혼자 개발이 아닌 여러명이 함께 작업을 하는 �
 		-충돌...이 나는 경우도있는데 이런 경우는 어떤 코드를 쓸지 정해야함
 		-토이프러블럼 모범답안 보는 법법
 		-branch 지우기 : git branch -d "filename"
+
 ### 그룹 작업하기
+	-
 	
-
-
+### 기타
+	-git rebase : branch에 있던 파일들을 master branch에 합치기 
+	-git diff "checksoome1" "checksome2"
+	
 ### 참고자료
 [완전 초보를 위한 깃허브](http://nolboo.kim/blog/2013/10/06/github-for-beginner/)O
