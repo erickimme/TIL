@@ -56,6 +56,7 @@ Version Control, 혼자 개발이 아닌 여러명이 함께 작업을 하는 �
  		: git add .  (모든 파일 업데이트하기)
 		: git status
 		: git commit -m “이유를 여기에 적는다” (ex) git commit -m “firstReverse update”)
+		: git log --oneline --decorate --graph --all
 
 	5. Web상에 작업한 것을 업로드하기
 		: git remote origin
