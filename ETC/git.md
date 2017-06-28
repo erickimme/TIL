@@ -83,7 +83,10 @@ Version Control, 혼자 개발이 아닌 여러명이 함께 작업을 하는 �
 		-branch 지우기 : git branch -d "filename"
 
 ### 그룹 작업하기
-	-
+	-fork
+	-git remote add upstream "주소"
+	-git remote -v
+	-git push upstream
 	
 ### 기타
 	-git rebase : branch에 있던 파일들을 master branch에 합치기 
