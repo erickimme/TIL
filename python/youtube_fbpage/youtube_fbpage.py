@@ -81,17 +81,16 @@ def get_nba_video_link(target_url):
         # print("title: {0}, video_link: {1}".format(nba_video_info['title'], nba_video_info['video_link'])
     return nba_video_info
 
-
 def write_in_file(nba_video_info):
-
 
     return
 
+'''
 if __name__ == "__main__":
     target_url = 'https://www.youtube.com/user/NBA/videos'
     get_nba_video_link(target_url)
-
-
+    print(nba_video_info.items())
+'''
 
 
 
