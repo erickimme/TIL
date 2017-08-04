@@ -67,6 +67,7 @@ greg(5,4)
 # elapsed time : 3.0 sec
 '''
 
+'''
 from functools import wraps
 
 def call_count(func):
@@ -107,3 +108,7 @@ greg(5,4)
 # call number : 1
 # greg
 # elapsed time : 3.0 sec
+'''
+
+# numbers
+(31).to_bytes(1, byteorder = 'little', signed = True)

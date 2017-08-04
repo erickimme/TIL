@@ -9,7 +9,7 @@ import lxml
 import requests
 
 # check start time to calculate running time
-start_time = time.time()
+# start_time = time.time()
 
 nba_video_info = {
     'title': '',
@@ -72,25 +72,47 @@ def get_nba_video_link(target_url):
             'updated_time': updated_time
         }
         # print all values
-        # print(nba_video_info)
+        print(nba_video_info)
 
         # print title and video link
-        print(nba_video_info['title'])
-        print(nba_video_info['video_link'])
+        # print(nba_video_info['title'])
+        # print(nba_video_info['video_link'])
         # print("title: %s, video_link: $s" % (str(nba_video_info['title']), str(nba_video_info['video_link'])))
         # print("title: {0}, video_link: {1}".format(nba_video_info['title'], nba_video_info['video_link'])
     return nba_video_info
 
-def write_in_file(nba_video_info):
+def write_in_file(sample_dic):
+    run_date = now_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/"
+    txt_file_name = file_path + run_date + ".txt"
+    print(txt_file_name)
+    print(sample_dic)
 
+    # f_txt = open("/Users/kimeric/GitHubProjects/TIL/python/FastCampus_CSschool/FC_CSS_practice/dataset/accountBook.txt",
+    #              'a')
+    # f_txt.writerow(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
+    # f_txt.write()
+
+    # f_txt.close
     return
 
-'''
+# sample_dic = {
+#                 'title' : 'this is title',
+#                 'video_link' : "https://www.youtube.com/user/NBA/videos",
+#                 'img_link' : "https://www.naver.com",
+#                 'play_time' : "6:39",
+#                 'hits' : "12944",
+#                 'updated_time' : "2017-08-01",
+#             }
+#
+# write_in_file(sample_dic)
+
+
 if __name__ == "__main__":
     target_url = 'https://www.youtube.com/user/NBA/videos'
     get_nba_video_link(target_url)
-    print(nba_video_info.items())
-'''
+    # print(nba_video_info.items())
+
 
 
 
@@ -117,6 +139,6 @@ soup = BeautifulSoup(driver.page_source, 'lxml')
 
 
 # calculating time taken
-end_time = time.time()
-running_time = end_time-start_time
-print("Total running time: {0} minutes".format(running_time / 60))
+# end_time = time.time()
+# running_time = end_time-start_time
+# print("Total running time: {0} minutes".format(running_time / 60))

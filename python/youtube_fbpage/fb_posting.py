@@ -10,51 +10,107 @@ import urllib
 import lxml
 import requests
 
+# opening txt/csv file that includes posting details
+def import_posting_data():
+    f_opened = open("filename.txt", 'r')
+    while True:
+        text = f_opened.readline()
+        if not text:
+            break
+        print(text)
+    f_opened.close()
+    return
 
-# Credential Info
-fb_id = "test@hotmail.com"
-fb_pw = "test_pw"
+# login fb -> fb page -> posting
+def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
+    # Build web browser with selenium.
+    # Assign your path where the webdriver file located to 'executable_path' as String
+    driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
+    driver.get(target_url)
+    print ("Opened facebook...")
 
-# Open Firefox
-home_url = "https://www.facebook.com/"
-page_url = "tooltooly1"
-target_url = home_url + page_url
+    # Build bs4
+    soup = BeautifulSoup(driver.page_source, 'lxml')
 
-# Build web browser with selenium.
-# Assign your path where the webdriver file located to 'executable_path' as String
-driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
-driver.get(target_url)
-print ("Opened facebook...")
+    # see more
+    # time.sleep(10)
+    # Type id & password
+    type_id = driver.find_element_by_id('email').send_keys(fb_id)
+    print ("Email Id entered...")
+    type_pw = driver.find_element_by_id('pass').send_keys(fb_pw)
+    print ("Password entered...")
 
-# Build bs4
-soup = BeautifulSoup(driver.page_source, 'lxml')
+    # click login button
+    element = driver.find_element_by_id('loginbutton')
+    element.click()
 
-# see more
-# time.sleep(10)
-# Type id & password
-type_id = driver.find_element_by_id('email').send_keys(fb_id)
-print ("Email Id entered...")
-type_pw = driver.find_element_by_id('pass').send_keys(fb_pw)
-print ("Password entered...")
+    # move to desired fbpage
+    driver.get(target_url)
+    print("Moving to target url")
 
-# click login button
-element = driver.find_element_by_id('loginbutton')
-element.click()
+    # write post
+    post_title = "Philadelphia 76ers' Top 10 Plays Of the 2016-2017 NBA Season"
+    post_url = "https://www.youtube.com/watch?v=XlGpcuaCgWI"
+    post_all = post_title + '\n' + post_url
 
-# move to desired fbpage
-driver.get(target_url)
-print("Moving to target url")
+    # *todo : 여기서 부터 하면됨 로그인해서 페이지 이동해서 포스팅하면 됨
+    driver.switch_to.alert
 
-# write post
-post_title = "Philadelphia 76ers' Top 10 Plays Of the 2016-2017 NBA Season"
-post_url = "https://www.youtube.com/watch?v=XlGpcuaCgWI"
-post_all = post_title + '\n' + post_url
+    publish_button = driver.find_element_by_xpath("//button[contains(.,'Publish')]")
 
-# *todo : 여기서 부터 하면됨 로그인해서 페이지 이동해서 포스팅하면 됨
-post_box = driver.find_element_by_class_name('_5yk2')
-post_box.click()
-post_box.send_keys(post_title)
+    publish_button.click()
 
+    # by_classname = driver.find_element_by_class_name("_1hib _4bl9")
+    # by_classname.click()
+
+    # by_css = driver.find_element_by_css_selector("#js_18 > div._1j2v > div._2dck._4-u3._57d8 > div > div._ohf.rfloat > div > button > span")
+    # by_css.click()
+    # by_xpath = driver.find_element_by_xpath("//*[@id='js_18']/div[2]/div[3]/div/div[2]/div/button/span")
+    # by_xpath.click()
+
+    # clicking_publish = driver.find_element_by_class_name("_1mf7 _4jy0 _4jy3 _4jy1 _51sy selected _42ft")
+    # clicking_publish_button = driver.find_element_by_class_name("_51xa")
+    # clicking_publish.click()
+
+    # _1mf7
+    # _4jy0
+    # _4jy3
+    # _4jy1
+    # _51sy
+    # selected
+    # _42ft
+
+    # post_box = driver.find_element_by_xpath(
+    #     "//[@id='js_2m']/div[1]/div/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div/div")
+    # post_box.click()
+    # post_box.send_keys(post_title)
+    # post_button = driver.find_element_by_xpath("//*[text()='Publish']")
+    # post_button.click()
+    #
+    # post_box = driver.find_element_by_xpath("//*[@button=_1mf7 _4jy0 _4jy3 _4jy1 _51sy selected _42ft _42fr']/div[1]/div/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div/div")
+    # post_box.click()
+    # # post_box.send_keys(post_title)
+
+    # post_button = driver.find_element_by_xpath("//*[text()='Publish']")
+    # post_button.click()
+
+    return
+
+
+
+
+if __name__ == "__main__":
+
+    # Credential Info
+    fb_id = "test@test.com"
+    fb_pw = "ㅅㄷㄴㅅtest"
+
+    # Open Firefox
+    home_url = "https://www.facebook.com/"
+    page_url = "tooltooly1"
+    target_url = home_url + page_url
+
+    login_fb_move_to_target_url(target_url, fb_id, fb_pw)
 
 
 '''

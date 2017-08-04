@@ -2161,3 +2161,1325 @@ IPDL protocol error: Handler returned error code!
 
 1501766148575	Marionette	INFO	Ceased listening
 1501766165008	Marionette	INFO	Ceased listening
+1501766478540	geckodriver	INFO	Listening on 127.0.0.1:60301
+1501766480653	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501766485198	Marionette	INFO	Listening on port 60322
+1501766485350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501766485784	Marionette	DEBUG	loaded listener.js
+1501766485865	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:21:25.962 plugin-container[49172:2312677] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:21:25.963 plugin-container[49172:2312677] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9023, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:21:25.963 plugin-container[49172:2312677] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501766486531	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501766486532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501766487884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501766489951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766489967	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766490006	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501766491231	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501766491848	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501766491861	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501766493298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766493337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766493359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501766493361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766493364	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766495094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766495673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766495744	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766499986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766500004	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766500022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766500036	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766500037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766500051	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766500462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766500919	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501766501984	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501766502007	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501766503900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501766503904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501766503905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501766503908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501766503912	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501766503915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501766503918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501766503955	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501766503959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501766503962	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501766504062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501766508874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766508920	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766508922	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766508938	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766509568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766509575	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766509582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766509590	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766512231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQS9_uc95Fm2R9gOGNA4sDcDfdZhxwZSpoImMHJ3NHHEsahzXkHUdcHVHW1Z4NUWA67AFw20BazOo5hbZ1mNJD96&encoded_two=AQQQa_FWnztCWN1hw3HlkvBVIRdsdMha--MVMFTVgQsUsG_ReaWhalLTMBrOa2N5iO-Ev7wnrl5hgTeOG4IeCHER"
+1501766512237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQS9_uc95Fm2R9gOGNA4sDcDfdZhxwZSpoImMHJ3NHHEsahzXkHUdcHVHW1Z4NUWA67AFw20BazOo5hbZ1mNJD96&encoded_two=AQQQa_FWnztCWN1hw3HlkvBVIRdsdMha--MVMFTVgQsUsG_ReaWhalLTMBrOa2N5iO-Ev7wnrl5hgTeOG4IeCHER"
+1501766512518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1501766514757	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1260106993&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D1878181083%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501766515047	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501766528869	Marionette	INFO	Ceased listening
+1501766747261	geckodriver	INFO	Listening on 127.0.0.1:62059
+1501766749103	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501766751977	Marionette	INFO	Listening on port 62078
+1501766752102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501766752404	Marionette	DEBUG	loaded listener.js
+1501766752466	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:25:52.533 plugin-container[49198:2315580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:25:52.535 plugin-container[49198:2315580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5207, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:25:52.535 plugin-container[49198:2315580] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501766753077	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501766753078	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501766753805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501766755318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766755328	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766755349	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501766756017	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501766756569	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501766756578	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501766757771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501766757775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766757777	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766757779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766757780	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766759307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766759522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501766759528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766762377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762410	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762441	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762522	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762684	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762696	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766762747	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501766763340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQ8lWkw_wfQ-tlzx-OfemjdRas_11iUWYzyKXkHJzzT1mXaBZnpobJ91tdyF7JKWkPuva3pxDLZoQ5iNOFvVaXo&encoded_two=AQTHcaxohsquduojZOz1iJT777y0g4s4_sZTVqeL0QSTq0xutZqg8_vJaljx4XCs6Kxn09Zo2WLaHiZcFc-b5qaR"
+1501766763344	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQ8lWkw_wfQ-tlzx-OfemjdRas_11iUWYzyKXkHJzzT1mXaBZnpobJ91tdyF7JKWkPuva3pxDLZoQ5iNOFvVaXo&encoded_two=AQTHcaxohsquduojZOz1iJT777y0g4s4_sZTVqeL0QSTq0xutZqg8_vJaljx4XCs6Kxn09Zo2WLaHiZcFc-b5qaR"
+1501766763347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501766763438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501766765044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBMDe44xUiilpTX&pageid=1"
+1501766765204	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1475065763&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D1669398670%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501766765205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501766765298	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBMDe44xUiilpTX&pageid=1"
+1501766765630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501766765772	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501766767162	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501766767221	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501766767248	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBMDe44xUiilpTX&pageid=1"
+1501766768343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1501766768351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501766768355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501766768360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501766768499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501766773257	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501766812753	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1501766812776	Marionette	INFO	Ceased listening
+1501767098117	geckodriver	INFO	Listening on 127.0.0.1:64302
+1501767100051	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501767103014	Marionette	INFO	Listening on port 64323
+1501767103101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501767103437	Marionette	DEBUG	loaded listener.js
+1501767103487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:31:43.556 plugin-container[49252:2317639] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:31:43.557 plugin-container[49252:2317639] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:31:43.557 plugin-container[49252:2317639] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501767104353	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501767104353	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501767104969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767106449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767106465	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767106621	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767107263	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501767107782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501767107790	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501767108620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501767108626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767108631	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767108632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767108638	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767111000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767111305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767111327	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767115181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115212	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115246	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115290	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115459	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115468	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115478	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767115774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQSn8p_oM045jwn8_wRlOm25YQCzKmy10lclYYN8fJc87RlmwK2qT6NCNE2MX_nzXRPQPkdt-BrvLKIDo0EaKgQM&encoded_two=AQQUuvJfJKxW5O_hZfiY56jB9fI7sUw-Xqhjym3JSvzwQ9KHWhulhrEUxR00AP8WT2wYib1IXlJPrt7JVdi8yHUC"
+1501767115777	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQSn8p_oM045jwn8_wRlOm25YQCzKmy10lclYYN8fJc87RlmwK2qT6NCNE2MX_nzXRPQPkdt-BrvLKIDo0EaKgQM&encoded_two=AQQUuvJfJKxW5O_hZfiY56jB9fI7sUw-Xqhjym3JSvzwQ9KHWhulhrEUxR00AP8WT2wYib1IXlJPrt7JVdi8yHUC"
+1501767115805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501767116171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501767117261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCdXJvrvJJF6Gak&pageid=1"
+1501767117442	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1493680289&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D895352984%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501767117471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501767117481	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCdXJvrvJJF6Gak&pageid=1"
+1501767117881	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1501767124805	Marionette	INFO	Ceased listening
+1501767201206	geckodriver	INFO	Listening on 127.0.0.1:65044
+1501767203008	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501767205789	Marionette	INFO	Listening on port 65061
+1501767205892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501767206202	Marionette	DEBUG	loaded listener.js
+1501767206263	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:33:26.332 plugin-container[49281:2318548] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:33:26.333 plugin-container[49281:2318548] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:33:26.334 plugin-container[49281:2318548] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501767206895	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501767206895	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501767207499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767209062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767209075	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767209223	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767209872	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501767210424	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501767210432	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501767211389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767211393	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767211401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501767211403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767211406	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767212956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767212970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767212983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767216427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767216441	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767216443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767216456	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767216457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767216468	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767217004	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767217039	geckodriver	INFO	Listening on 127.0.0.1:65232
+1501767219609	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501767224172	Marionette	INFO	Listening on port 65265
+1501767224351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501767224731	Marionette	DEBUG	loaded listener.js
+1501767224777	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:33:44.849 plugin-container[49284:2318862] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:33:44.850 plugin-container[49284:2318862] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:33:44.851 plugin-container[49284:2318862] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501767225374	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501767225375	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501767225969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767227757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767227809	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767227981	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767228025	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501767228866	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501767228875	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501767229576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767229583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501767231611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767231640	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767231733	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767233864	Marionette	INFO	Ceased listening
+1501767243081	Marionette	INFO	Ceased listening
+1501767328268	geckodriver	INFO	Listening on 127.0.0.1:49669
+1501767330072	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501767332961	Marionette	INFO	Listening on port 49690
+1501767333057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501767333368	Marionette	DEBUG	loaded listener.js
+1501767333440	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:35:33.526 plugin-container[49313:2320231] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:35:33.527 plugin-container[49313:2320231] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:35:33.527 plugin-container[49313:2320231] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501767334087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501767334087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501767334678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767336578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767336591	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767336675	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767337253	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501767337772	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501767337781	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501767338899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501767338902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767338993	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767338997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767339000	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767341208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767341655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767341670	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767345628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767345645	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767345646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767345661	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767345662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767345720	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767346185	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767346654	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501767347744	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501767347758	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501767348685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501767348690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501767348692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501767348697	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501767348700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501767348703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501767349634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767354793	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767472532	geckodriver	INFO	Listening on 127.0.0.1:50651
+1501767474757	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501767479569	Marionette	INFO	Listening on port 50672
+1501767479929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501767480500	Marionette	DEBUG	loaded listener.js
+1501767480566	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-03 22:38:00.636 plugin-container[49335:2322287] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:38:00.636 plugin-container[49335:2322287] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-03 22:38:00.636 plugin-container[49335:2322287] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501767481267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501767481268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501767481926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767483814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767483826	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767483896	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767484954	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501767485588	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501767485600	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501767486561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767486562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767486568	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767486574	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767486797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501767488071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767488160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501767488179	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767493877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767493900	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767493901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767493919	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767493920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767493937	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767494356	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501767494626	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501767495908	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501767495931	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501767496712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501767496717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501767496719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501767496722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501767496726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501767496735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501767496931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767496936	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767496974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767496976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501767497767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501767497818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497832	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497855	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497906	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767497918	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501767498199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQSlr7s7agOJDnkWmPe4J2-jHCX24i2dcGU7CBxYPlzokcPuOnpLKR3QswHBM9HP2VKHviEDZHALfpClxZ67o-oT&encoded_two=AQQmoWl3wWN6fhJAMRDJkzHpIQ7SEoGCp6rAKtDbc1XAcP7AzUqI4E1-OfAmIaHtM3_3UmCKRKNABC2QyKzzAkk_"
+1501767498201	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQSlr7s7agOJDnkWmPe4J2-jHCX24i2dcGU7CBxYPlzokcPuOnpLKR3QswHBM9HP2VKHviEDZHALfpClxZ67o-oT&encoded_two=AQQmoWl3wWN6fhJAMRDJkzHpIQ7SEoGCp6rAKtDbc1XAcP7AzUqI4E1-OfAmIaHtM3_3UmCKRKNABC2QyKzzAkk_"
+1501767498204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1501767498875	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=2650296007&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D2059284083%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501767498879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1501767505694	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+1501767609122	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+1501767611272	Marionette	INFO	Ceased listening
+1501817509478	geckodriver	INFO	Listening on 127.0.0.1:51010
+1501817511374	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501817514975	Marionette	INFO	Listening on port 51031
+1501817515072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501817515442	Marionette	DEBUG	loaded listener.js
+1501817515509	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 12:31:55.588 plugin-container[49990:2347193] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 12:31:55.589 plugin-container[49990:2347193] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4b1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 12:31:55.590 plugin-container[49990:2347193] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501817516869	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501817516869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501817517542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501817519326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817519340	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817519463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501817520250	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501817520880	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501817520890	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501817523881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501817523883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817523927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817523927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817523930	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817526051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817526098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817526109	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817527795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817527813	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817527835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817527851	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817527853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817527865	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528168	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528181	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528187	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817528463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQco0Fi9ffZVDZX81Z_vM9OvWO2hLlKxLgE-P9BrDsWrnb1GPRE8Rx2iBfAFImMqQOTErNyVw2fKgXoAFhky5m9&encoded_two=AQTgB2CN0HDh_1f907xPwmHdmZQQ4YHGvqSUh4-0Ap4s5vH_AhquPtdWLo3vazoRRz4mh6xV1TKklTIoBJ99MwKg"
+1501817528468	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQco0Fi9ffZVDZX81Z_vM9OvWO2hLlKxLgE-P9BrDsWrnb1GPRE8Rx2iBfAFImMqQOTErNyVw2fKgXoAFhky5m9&encoded_two=AQTgB2CN0HDh_1f907xPwmHdmZQQ4YHGvqSUh4-0Ap4s5vH_AhquPtdWLo3vazoRRz4mh6xV1TKklTIoBJ99MwKg"
+1501817528614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501817529105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501817529682	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=2101003336&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D91354474%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501817529684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501817530450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCqxXYrGrwL4xUL&pageid=1"
+1501817530545	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCqxXYrGrwL4xUL&pageid=1"
+1501817530920	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817531149	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501817532375	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501817532393	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501817534550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501817534573	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501817534579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501817534586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501817540299	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501817677475	Marionette	INFO	Ceased listening
+1501817679218	geckodriver	INFO	Listening on 127.0.0.1:52175
+1501817681055	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501817684275	Marionette	INFO	Listening on port 52196
+1501817684498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501817684891	Marionette	DEBUG	loaded listener.js
+1501817684952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 12:34:45.030 plugin-container[50194:2348679] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 12:34:45.031 plugin-container[50194:2348679] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 12:34:45.032 plugin-container[50194:2348679] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501817685563	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501817685564	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501817686290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501817687836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817687847	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817687898	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501817688555	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501817689070	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501817689078	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501817690565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501817690567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817690600	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817690601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817690603	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817691919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817692517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501817692529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817697287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817697315	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817697331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817697350	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817697351	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817697368	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501817697732	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501817698136	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501817699193	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501817699221	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501817699974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501817699978	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501817699983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501817699984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501817699986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501817700001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501817700409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501817705600	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 50194] WARNING: pipe error: Socket is not connected: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 50194] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 50194] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 50194] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 50194] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1501817865517	Marionette	INFO	Ceased listening
+1501835882312	geckodriver	INFO	Listening on 127.0.0.1:51307
+1501835884321	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501835887416	Marionette	INFO	Listening on port 51322
+1501835887542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501835887841	Marionette	DEBUG	loaded listener.js
+1501835887902	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 17:38:08.019 plugin-container[51812:2542390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:38:08.022 plugin-container[51812:2542390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x511b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:38:08.022 plugin-container[51812:2542390] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501835888959	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501835888959	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501835889816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501835891607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835891618	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835891635	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501835892420	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501835893027	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501835893040	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501835895161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501835895163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835895168	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835895169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835895171	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835897434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835897528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835897531	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835899415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899436	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899470	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899490	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899872	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899897	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835899936	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+[Child 51812] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1501835928707	geckodriver	INFO	Listening on 127.0.0.1:51511
+1501835930215	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501835933205	Marionette	INFO	Listening on port 51524
+1501835933325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501835933649	Marionette	DEBUG	loaded listener.js
+1501835933720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 17:38:53.802 plugin-container[51833:2543428] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:38:53.803 plugin-container[51833:2543428] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:38:53.804 plugin-container[51833:2543428] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501835934411	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501835934412	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501835935140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501835937748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835937759	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835937781	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501835938526	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501835939961	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501835939973	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501835940772	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501835940782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835940788	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835940789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835940791	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835942098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835942192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501835942202	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835944971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945009	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945042	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945130	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945206	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945236	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945264	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501835945737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQynDR3IdekhgNYKoY0orHyHg-HHZUpa_WEr_Af4JJNpxudTv-TGHLcnefdOhaOOJzpVfev8o7YXS-9ZoUwnmgk&encoded_two=AQR4l08z9kwdV8kyVr08HEo8cyAmch7fXgJbTpZgiSfhBzkh2tEB0zAgtI35YJmyyDYXBaQeF4Hk7X47_z5YSQqw"
+1501835945739	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQynDR3IdekhgNYKoY0orHyHg-HHZUpa_WEr_Af4JJNpxudTv-TGHLcnefdOhaOOJzpVfev8o7YXS-9ZoUwnmgk&encoded_two=AQR4l08z9kwdV8kyVr08HEo8cyAmch7fXgJbTpZgiSfhBzkh2tEB0zAgtI35YJmyyDYXBaQeF4Hk7X47_z5YSQqw"
+1501835945769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501835946129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501835946382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZUv6CPtnQsTIioy7NBIPo67S0CLJtpmrGzlzegdC79nSBShV3vNrdJ6xBz8o2DfVAvTjd2ZuSOLKQfa9WBICWeGMRCIkCziwlGuCPTpoom1qA&isv=1&cts=1501835946&csp"
+1501835946384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZUluqQPEoEJw9ZRynaa5BkWOvDPoaxvTsxgX21nBSuB6rON6qwcr31ptdbk4cyX3wn49SXAaQS2mCx0TvtkCJKUw798jNKeoCBOh5T9m3P0mopNx82y4vYDenZUC4zIbIw-ewlTQPj9mmSvjgjZzamZJ9UDzITGuFoVDITGOgzlDRfaGfEmB0eeSiVTkYrQ4xckxUgOZ1oMGgQTt29xfa9daNvZATjgSQ4R52OXfXV8l2rHO27zjhW3SX5kK6EsHtBt4QcB6c6a1SpcLDv9Y0Kg3-ujxJtaFOVoZTDIouX8ZbYUb5sqcGCcHzqWny91RSU&isv=1&cts=1501835946&csp=2"
+1501835946702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZWrZ-4uKqw8saSLACVNSts6T1CMGAnTTJnJPJv2Qz1rRzwaIvbxomtMjHogkR-gaVd0z_3WKYnXd59ckTefCPtdUpPiytS_Pie6BtPoP-EPjw&isv=1&cts=1501835946&csp"
+1501835947210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=4125277290&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D1654764886%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501835947212	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZUv6CPtnQsTIioy7NBIPo67S0CLJtpmrGzlzegdC79nSBShV3vNrdJ6xBz8o2DfVAvTjd2ZuSOLKQfa9WBICWeGMRCIkCziwlGuCPTpoom1qA&isv=1&cts=1501835946&csp"
+1501835947214	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZUluqQPEoEJw9ZRynaa5BkWOvDPoaxvTsxgX21nBSuB6rON6qwcr31ptdbk4cyX3wn49SXAaQS2mCx0TvtkCJKUw798jNKeoCBOh5T9m3P0mopNx82y4vYDenZUC4zIbIw-ewlTQPj9mmSvjgjZzamZJ9UDzITGuFoVDITGOgzlDRfaGfEmB0eeSiVTkYrQ4xckxUgOZ1oMGgQTt29xfa9daNvZATjgSQ4R52OXfXV8l2rHO27zjhW3SX5kK6EsHtBt4QcB6c6a1SpcLDv9Y0Kg3-ujxJtaFOVoZTDIouX8ZbYUb5sqcGCcHzqWny91RSU&isv=1&cts=1501835946&csp=2"
+1501835947220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501835947224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZWrZ-4uKqw8saSLACVNSts6T1CMGAnTTJnJPJv2Qz1rRzwaIvbxomtMjHogkR-gaVd0z_3WKYnXd59ckTefCPtdUpPiytS_Pie6BtPoP-EPjw&isv=1&cts=1501835946&csp"
+1501835947496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBL60xs6Qvq2pdt&pageid=1"
+1501835947664	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBL60xs6Qvq2pdt&pageid=1"
+1501835948010	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501835948288	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501835949245	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501835949276	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501835949298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arbl60xs6qvq2pdt"
+1501835950024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1501835950026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1501835950027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1501835950032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501835950033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1501835950040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501835950046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501835950919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501835955700	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501836736220	Marionette	INFO	Ceased listening
+1501836739184	geckodriver	INFO	Listening on 127.0.0.1:52676
+1501836741097	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501836744168	Marionette	INFO	Listening on port 52689
+1501836744302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501836744595	Marionette	DEBUG	loaded listener.js
+1501836744650	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 17:52:24.735 plugin-container[51855:2548023] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:52:24.738 plugin-container[51855:2548023] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5117, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:52:24.739 plugin-container[51855:2548023] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501836746346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501836746346	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501836746978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501836748747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836748757	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836748818	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501836749443	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501836749931	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501836749941	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501836750885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501836750888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836750891	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836750892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836750896	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836752547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836752552	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836752644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836755738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836755755	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836755756	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836755770	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836755772	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836755782	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836756096	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836756280	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501836757604	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501836757678	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501836758946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501836758949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501836758950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501836758952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501836758955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501836758959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501836758986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501836758988	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501836758989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501836758991	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501836759118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501836761458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836761471	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836761510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836761523	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836761886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836761922	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836762007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836762014	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836763038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQT2sq1kdYqqHW7aDNJKSztKq0fqDCVKjXKUyMbHkr_dUgOHRmEqS1dHN3qEw6gjNlWMyW8sz3CrDl5z_fmIW9SE&encoded_two=AQSssA8uYYPzYK1GlxFm5PRRu-Pd3vxm640LjHLh12Yhq60bcCG-AsVvjKlBTo3qvr-cpq11TmPtZZF-V5DHZ_vs"
+1501836763041	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQT2sq1kdYqqHW7aDNJKSztKq0fqDCVKjXKUyMbHkr_dUgOHRmEqS1dHN3qEw6gjNlWMyW8sz3CrDl5z_fmIW9SE&encoded_two=AQSssA8uYYPzYK1GlxFm5PRRu-Pd3vxm640LjHLh12Yhq60bcCG-AsVvjKlBTo3qvr-cpq11TmPtZZF-V5DHZ_vs"
+1501836763165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1501836764462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=2973715269&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D1125584063%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501836764698	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+Warning: An attempt was made to write to the DEVTOOLS_COPY_FULL_CSS_SELECTOR_OPENED_COUNT histogram, which is not defined in Histograms.json
+1501836963431	geckodriver	INFO	Listening on 127.0.0.1:53647
+1501836965462	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501836968962	Marionette	INFO	Listening on port 53668
+1501836969073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501836969719	Marionette	DEBUG	loaded listener.js
+1501836969777	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 17:56:09.868 plugin-container[51878:2550424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:56:09.871 plugin-container[51878:2550424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x901f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:56:09.871 plugin-container[51878:2550424] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501836970820	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501836970820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501836971505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501836972615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836972628	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836974814	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501836976369	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501836977105	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501836977116	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501836979046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501836979051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836979059	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836979062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836979066	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836980199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836982327	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501836983196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501836984234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984420	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984437	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984453	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984617	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984628	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836984656	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836985474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRIxsUtcU-27zYRAHXCpRrCUq2kEYmonZerfmz6EO2XZnjhNXpLN6AU-LgfRLWflHxYskwZ3Babfj-jloBeO4-Q&encoded_two=AQQXxnjOCGSVnbC2kxgp0g59PXvEXdgKcjUrZMkbu3N_PX9xjTn3jcOYRsk81rzXjTZVAq5Q8CcXn3X-9LKh18ji"
+1501836985483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRIxsUtcU-27zYRAHXCpRrCUq2kEYmonZerfmz6EO2XZnjhNXpLN6AU-LgfRLWflHxYskwZ3Babfj-jloBeO4-Q&encoded_two=AQQXxnjOCGSVnbC2kxgp0g59PXvEXdgKcjUrZMkbu3N_PX9xjTn3jcOYRsk81rzXjTZVAq5Q8CcXn3X-9LKh18ji"
+1501836985515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501836985551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501836986746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCzQlVQQrhzWqMO&pageid=1"
+1501836986831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501836986833	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501836986835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501836986840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501836986844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1501836991246	geckodriver	INFO	Listening on 127.0.0.1:53930
+1501836992761	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501836995737	Marionette	INFO	Listening on port 53947
+1501836995853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501836996144	Marionette	DEBUG	loaded listener.js
+1501836996193	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 17:56:36.267 plugin-container[51888:2551571] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:56:36.268 plugin-container[51888:2551571] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5207, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 17:56:36.268 plugin-container[51888:2551571] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501836997089	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501836997090	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501836997838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501836998983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501836998996	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837000259	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501837000866	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501837001424	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501837001441	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501837003010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501837003013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501837003015	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501837003016	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501837003018	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501837004550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501837005057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501837005064	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501837007636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837007665	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837007724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837007783	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837007801	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837007819	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008100	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008124	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008187	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501837008463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRYVDSy_tqM34IuJBhAqo29f7BBKLtImhOdMBfUSr7sZvLh6OXdqVQoPnKKsFJf3C96YMH1nFV2yIJ8avfAWDW3&encoded_two=AQQHAbkHE_buevKY1MOcZjSTNM3feHrgXgNBnYMsPr3uVcCzUtO-c-GOXtU2lYBHPofi-MllkAp9wj1UwTxdLdAl"
+1501837008468	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRYVDSy_tqM34IuJBhAqo29f7BBKLtImhOdMBfUSr7sZvLh6OXdqVQoPnKKsFJf3C96YMH1nFV2yIJ8avfAWDW3&encoded_two=AQQHAbkHE_buevKY1MOcZjSTNM3feHrgXgNBnYMsPr3uVcCzUtO-c-GOXtU2lYBHPofi-MllkAp9wj1UwTxdLdAl"
+1501837008482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501837008852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501837010318	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=2013300163&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D929513699%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501837010321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501837010375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZWMLffWtYJZ3ZjzbejYkfGVuYcLdrHoVyTalEZloEilZYqxGfWhbLriglx2no4oj0yYogkIod2UCDXaIVfHBOdFGJECasoIdIHudLtrkDnkVaMhBXpxTe2aS7_uWbLp6HHZx4mHg3wQo7FLfSk46DzeXt7Di_YZBMux2gCU2wKxtFz7lgaZTJfU7BvfvIR4PPcj4pvZUAkK7M0NppZH0lJrODlCAoMHJWsLUk-DOzPKc4tBaRtp-ygR-B1oatNS_-ugT1p8AjKiD1P3PultyrCp0ZTL6Jt3gaX8inWDnqSLEoUHLJ1soIocnfUhsL5jq58&isv=1&cts=1501837009&csp=2"
+1501837010394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZUR0EQbBKS3iEJPVxMsD_uivqHeeo3SJ5i_o3qAcsu1jUVSgSIisXQqNwCsdfMc5O7h7AiB2bMWjQcQNMLC7UbmAfdjkgkJzLfO9DuZss5d3Q&isv=1&cts=1501837009&csp"
+1501837010413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZWoT1mlJzn9JDIDiJBh1WjQKO_SJbc9pZwpX48fGE29WY83RIj0QbHrhNooDeqOqZAxDD2W7vLS0hOjJBonPlGrCIpGdZSy5S0xMf0DCVTi7g&isv=1&cts=1501837009&csp"
+1501837010440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARDRCX5D2hFc9CzS&pageid=1"
+1501837010457	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZWMLffWtYJZ3ZjzbejYkfGVuYcLdrHoVyTalEZloEilZYqxGfWhbLriglx2no4oj0yYogkIod2UCDXaIVfHBOdFGJECasoIdIHudLtrkDnkVaMhBXpxTe2aS7_uWbLp6HHZx4mHg3wQo7FLfSk46DzeXt7Di_YZBMux2gCU2wKxtFz7lgaZTJfU7BvfvIR4PPcj4pvZUAkK7M0NppZH0lJrODlCAoMHJWsLUk-DOzPKc4tBaRtp-ygR-B1oatNS_-ugT1p8AjKiD1P3PultyrCp0ZTL6Jt3gaX8inWDnqSLEoUHLJ1soIocnfUhsL5jq58&isv=1&cts=1501837009&csp=2"
+1501837010462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZUR0EQbBKS3iEJPVxMsD_uivqHeeo3SJ5i_o3qAcsu1jUVSgSIisXQqNwCsdfMc5O7h7AiB2bMWjQcQNMLC7UbmAfdjkgkJzLfO9DuZss5d3Q&isv=1&cts=1501837009&csp"
+1501837010467	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZWoT1mlJzn9JDIDiJBh1WjQKO_SJbc9pZwpX48fGE29WY83RIj0QbHrhNooDeqOqZAxDD2W7vLS0hOjJBonPlGrCIpGdZSy5S0xMf0DCVTi7g&isv=1&cts=1501837009&csp"
+1501837010668	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARDRCX5D2hFc9CzS&pageid=1"
+1501837011029	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501837011158	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501837012046	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501837012078	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501837012150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=ardrcx5d2hfc9czs"
+1501837013056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1501837013058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1501837013059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1501837013069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501837013071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1501837013077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501837013081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501837013790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501837018510	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501840626992	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1501840627056	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1501840627811	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501841262133	Marionette	INFO	Ceased listening
+1501846802909	geckodriver	INFO	Listening on 127.0.0.1:53051
+1501846804993	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501846809238	Marionette	INFO	Listening on port 53072
+1501846809384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501846809869	Marionette	DEBUG	loaded listener.js
+1501846809920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 20:40:10.013 plugin-container[52728:2647988] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:40:10.017 plugin-container[52728:2647988] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:40:10.017 plugin-container[52728:2647988] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501846810716	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501846810716	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501846811520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501846812343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846812367	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846813985	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501846815136	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501846815673	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501846815685	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501846818034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501846818037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846818044	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846818045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846818047	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846821838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846821885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846821921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846824270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824285	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824329	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824343	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824559	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824607	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846824615	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846825250	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQxi2v8IyA1TjphHVZiyq9yObDalICqeb8vvvHGq_3F8lTBRoHEO486_HmKGso0HPFkSxH4bYWJOLs5zpjpgle2&encoded_two=AQSKBOWemP53PUS0vO2wap2JHAm6ucOgJRzOu4RBY812lJEhLtSSB7mzzcpTr8rjnBAxQPnPv_9vy3b_U5WP9oY2"
+1501846825254	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQxi2v8IyA1TjphHVZiyq9yObDalICqeb8vvvHGq_3F8lTBRoHEO486_HmKGso0HPFkSxH4bYWJOLs5zpjpgle2&encoded_two=AQSKBOWemP53PUS0vO2wap2JHAm6ucOgJRzOu4RBY812lJEhLtSSB7mzzcpTr8rjnBAxQPnPv_9vy3b_U5WP9oY2"
+1501846825570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501846825870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501846826505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZUQGHKkFGyj4_gaC_zo7G-ovu9vsI3b2sXibuxaseQ7GbGans6dAhdcCvGM_2VKPFk6HfJ2WI9GT_HsaBF4xutsFNYMTjzY4jkFG0gXGOf_mQ&isv=1&cts=1501846825&csp"
+1501846826519	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=968124152&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D415604302%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501846826520	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501846827064	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZUQGHKkFGyj4_gaC_zo7G-ovu9vsI3b2sXibuxaseQ7GbGans6dAhdcCvGM_2VKPFk6HfJ2WI9GT_HsaBF4xutsFNYMTjzY4jkFG0gXGOf_mQ&isv=1&cts=1501846825&csp"
+1501846829186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCF92IkUt4J5oXz&pageid=1"
+1501846829635	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCF92IkUt4J5oXz&pageid=1"
+1501846829927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846830561	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501846831879	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501846831898	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501846831981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arcf92ikut4j5oxz"
+1501846833852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1501846833854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1501846833865	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501846833869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501846833878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501846834429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501846842067	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501846864364	Marionette	INFO	Ceased listening
+1501846884075	geckodriver	INFO	Listening on 127.0.0.1:53689
+1501846886021	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501846890133	Marionette	INFO	Listening on port 53710
+1501846890229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501846890673	Marionette	DEBUG	loaded listener.js
+1501846890755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 20:41:30.887 plugin-container[52744:2649006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:41:30.892 plugin-container[52744:2649006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x910b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:41:30.892 plugin-container[52744:2649006] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501846891281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501846891282	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501846892038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501846894884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846894904	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846894976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501846896570	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501846897138	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501846897179	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501846899063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501846899067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846899084	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846899087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846899094	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846899146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846902778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846903658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+2017-08-04 20:41:44.300 geckodriver[52742:2649115] Metadata.framework [Error]: server port invalidated for uid 501
+2017-08-04 20:41:44.318 geckodriver[47271:2649112] Metadata.framework [Error]: server port invalidated for uid 501
+2017-08-04 20:41:44.318 geckodriver[47253:2649116] Metadata.framework [Error]: server port invalidated for uid 501
+1501846905086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905119	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905316	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905330	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905439	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905479	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905488	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846905778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRGcIKUKtPDSlCG_uAjz86nqKPZpvItN-Dlj-sI1XAKTJLw9V_opbwi3QTcG62gAwzvTi1XU2iACzR9vkVAMQtG&encoded_two=AQS6UmWZNWPBqy2oDeuS6z57FB-RExBJb3B-hxclSwfEbquA_CsCsKHwWhvcy0P7o8hIyFDDnCirSks99QvuRu8B"
+1501846905781	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRGcIKUKtPDSlCG_uAjz86nqKPZpvItN-Dlj-sI1XAKTJLw9V_opbwi3QTcG62gAwzvTi1XU2iACzR9vkVAMQtG&encoded_two=AQS6UmWZNWPBqy2oDeuS6z57FB-RExBJb3B-hxclSwfEbquA_CsCsKHwWhvcy0P7o8hIyFDDnCirSks99QvuRu8B"
+1501846905940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501846906584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501846908762	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=197259678&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D507540246%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501846908765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501846908899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARAd5y-BQCFII66t&pageid=1"
+1501846909279	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARAd5y-BQCFII66t&pageid=1"
+1501846911419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arad5y-bqcfii66t"
+1501846911464	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arad5y-bqcfii66t"
+1501846914294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846915041	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501846916151	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501846916291	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501846918630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1501846918633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1501846918636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1501846918650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501846918655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1501846918701	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501846918716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501846919298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501846930121	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+Invalid connection: com.apple.coresymbolicationd
+console.error: 
+  Could not write session state file 
+  Message: Unix error 28 during operation open on file /var/folders/j2/4sxkln_j4tb4h62xf6438vhc0000gn/T/rust_mozprofile.OGBahNWpXbKN/sessionstore-backups/recovery.js.tmp (No space left on device)
+  
+console.error: 
+  Could not write session state file 
+  Message: Unix error 28 during operation open on file /var/folders/j2/4sxkln_j4tb4h62xf6438vhc0000gn/T/rust_mozprofile.OGBahNWpXbKN/sessionstore.js.tmp (No space left on device)
+  
+1501846957691	Marionette	INFO	Ceased listening
+1501846959513	geckodriver	INFO	Listening on 127.0.0.1:54287
+Invalid connection: com.apple.coresymbolicationd
+1501846976076	geckodriver	INFO	Listening on 127.0.0.1:54394
+1501846979071	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501846984133	Marionette	INFO	Listening on port 54422
+1501846984259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501846984824	Marionette	DEBUG	loaded listener.js
+1501846984941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 20:43:05.083 plugin-container[52765:2650680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:43:05.088 plugin-container[52765:2650680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:43:05.088 plugin-container[52765:2650680] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501846986095	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501846986095	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501846987614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1501846990903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846990915	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501846991010	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1501846992366	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1501846992904	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501846992924	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1501846994269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501846994298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846994303	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846994304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846994308	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501846994410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846997015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501846997028	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501847000833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847000862	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847000864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847000881	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847000882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847000895	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001015	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001025	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001035	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847001369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQTz5InD0twUVngv3_wDy3zECwY_jwfavvud_TnCf3JD6SlsCXT36yaqGQeVLxi5h87XMxhOFgfDeBOxoVDeg_lI&encoded_two=AQRjW74tj4orirtyVMWTeAk_9umlHGC24eQnWKnWKgaEIIynzNh1f4TjBnuD7PquvStBITOHBXj49NwyIYpGHZZk"
+1501847001377	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQTz5InD0twUVngv3_wDy3zECwY_jwfavvud_TnCf3JD6SlsCXT36yaqGQeVLxi5h87XMxhOFgfDeBOxoVDeg_lI&encoded_two=AQRjW74tj4orirtyVMWTeAk_9umlHGC24eQnWKnWKgaEIIynzNh1f4TjBnuD7PquvStBITOHBXj49NwyIYpGHZZk"
+1501847001414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501847002614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501847002618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZWOepcZdkGTQN2B3YfN9f1JtXee8gAravSJD4LX2XzviJ5RcyiLRrst_kBRE1-jv1vxjURZUTDbSeuivWa5VsH9sTbsRv0rYFyMkvX9Sj-L6ArTGRqGSficyWwVAYzhfR71rmEN8xjWUpGs4dJWxENXll57pV5Do1xuv6pInjCsEhzA9dsORd9XaVxImooVZIcUclOyJqvOwNg8mKA1gNyw6v54wHsxCsyXul1FYWzCmRH8zHatKoM9bYdn8zNchgEzHtq3cxEUf9BwInq81hz-wxq6KtwZNF0GE8z8I2QwqY05GtNBKLJl_o6xzdvTCb4&isv=1&cts=1501847001&csp=2"
+1501847002921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZWOepcZdkGTQN2B3YfN9f1JtXee8gAravSJD4LX2XzviJ5RcyiLRrst_kBRE1-jv1vxjURZUTDbSeuivWa5VsH9sTbsRv0rYFyMkvX9Sj-L6ArTGRqGSficyWwVAYzhfR71rmEN8xjWUpGs4dJWxENXll57pV5Do1xuv6pInjCsEhzA9dsORd9XaVxImooVZIcUclOyJqvOwNg8mKA1gNyw6v54wHsxCsyXul1FYWzCmRH8zHatKoM9bYdn8zNchgEzHtq3cxEUf9BwInq81hz-wxq6KtwZNF0GE8z8I2QwqY05GtNBKLJl_o6xzdvTCb4&isv=1&cts=1501847001&csp=2"
+1501847003475	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1798556540&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D1273468867%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501847003478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501847003561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARDGxaE6D93kRlYv&pageid=1"
+1501847003821	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARDGxaE6D93kRlYv&pageid=1"
+1501847004255	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501847006508	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501847008694	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501847008712	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501847008740	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARDGxaE6D93kRlYv&pageid=1"
+1501847010028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501847010082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1501847010106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501847010108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1501847010113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501847010121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1372: TypeError: can't access dead object
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1377: TypeError: can't access dead object
+1501847023573	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 403: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 403: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1501847575125	geckodriver	INFO	Listening on 127.0.0.1:58172
+1501847577221	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501847581445	Marionette	INFO	Listening on port 58203
+1501847581740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501847582423	Marionette	DEBUG	loaded listener.js
+1501847582596	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 20:53:02.811 plugin-container[52854:2654272] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5147, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:53:02.816 plugin-container[52854:2654272] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x930b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 20:53:02.816 plugin-container[52854:2654272] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501847584058	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501847584058	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501847585761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501847595475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847595486	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847595539	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+1501847596516	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501847597334	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501847597353	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501847606141	Marionette	INFO	Ceased listening
+1501847608699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501847608703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501847608708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501847608709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501847608712	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501847610331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501847610527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501847610532	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501847612130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612145	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612159	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612170	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612328	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612337	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847612347	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501847615971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRPBpzQRurpBJPDPb5ph5UrwKqqNepA0QTLh9HSaFa4wUsiz51_kf84Sm9jL0L27WIwe0TVLf2wAPyro3Wuqqsl&encoded_two=AQQnG9uUT2a9JBAduPQi_ElDIRlimfhJ_aMXqEVLku3e_ID9daOq5kCO6MSHv3pbS8A4YKk_QOzl-Iiklmh-CN8L"
+1501847615975	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRPBpzQRurpBJPDPb5ph5UrwKqqNepA0QTLh9HSaFa4wUsiz51_kf84Sm9jL0L27WIwe0TVLf2wAPyro3Wuqqsl&encoded_two=AQQnG9uUT2a9JBAduPQi_ElDIRlimfhJ_aMXqEVLku3e_ID9daOq5kCO6MSHv3pbS8A4YKk_QOzl-Iiklmh-CN8L"
+1501847615977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZVycZbO8I-Nog1GeKTF5GPhXPYG28puFwDLQyK30muG0kJjgUDN1rV0Y4p51f4o-WMjrDpIeCOBzRtO8kxwKjABY0vpVeGCKRKoKeTMdDUQXi6u7wMGPdStP0h7wRyunTCjFul_Mr4VxhZm-zkbW3rsuOkrsxnrffSZhNC3Rw2xGdm_PC5a2qLG36V2tNmm2QC4swNuda99smMClTHAtTtrru9Q80zxZoJU4xgP1b4IaWNPQAyJgpyoN3yWVJNue7smZS9obSwGyCC8qr3-tFzRJXegm3zVGwXKPj6ZMaFy1SAcJk8UXHp8voxTrFjlJOY&isv=1&cts=1501847612&csp=2"
+1501847615978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZXRj7xW9H_z__PU_tteeqonPs2Asbw8ujun_zEyCyvx0X-R4NjaOpFUdpqhxsoEt-55qmMnrJ4bQe6lkZvQjzL5ENPuVQ6uwkWp8psRvPMaMQ&isv=1&cts=1501847612&csp"
+1501847615993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1501847616523	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1501847618065	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZXRj7xW9H_z__PU_tteeqonPs2Asbw8ujun_zEyCyvx0X-R4NjaOpFUdpqhxsoEt-55qmMnrJ4bQe6lkZvQjzL5ENPuVQ6uwkWp8psRvPMaMQ&isv=1&cts=1501847612&csp"
+1501847618073	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZVycZbO8I-Nog1GeKTF5GPhXPYG28puFwDLQyK30muG0kJjgUDN1rV0Y4p51f4o-WMjrDpIeCOBzRtO8kxwKjABY0vpVeGCKRKoKeTMdDUQXi6u7wMGPdStP0h7wRyunTCjFul_Mr4VxhZm-zkbW3rsuOkrsxnrffSZhNC3Rw2xGdm_PC5a2qLG36V2tNmm2QC4swNuda99smMClTHAtTtrru9Q80zxZoJU4xgP1b4IaWNPQAyJgpyoN3yWVJNue7smZS9obSwGyCC8qr3-tFzRJXegm3zVGwXKPj6ZMaFy1SAcJk8UXHp8voxTrFjlJOY&isv=1&cts=1501847612&csp=2"
+1501847618804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCx0HQ2be7M5vCM&pageid=1"
+1501847621494	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCx0HQ2be7M5vCM&pageid=1"
+1501847625160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arcx0hq2be7m5vcm"
+1501847625733	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arcx0hq2be7m5vcm"
+1501847626045	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1093440139&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D80667398%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1501847626361	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501847626492	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1501847627543	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1501847627590	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1501847628751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1501847628778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1501847628782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1501847628783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1501847628789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501847628791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1501847632907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501847650200	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501849045049	geckodriver	INFO	Listening on 127.0.0.1:50997
+1501849047036	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501849051068	Marionette	INFO	Listening on port 51018
+1501849051322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501849051850	Marionette	DEBUG	loaded listener.js
+1501849051968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-04 21:17:32.096 plugin-container[52948:2671545] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 21:17:32.103 plugin-container[52948:2671545] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-04 21:17:32.103 plugin-container[52948:2671545] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501849052634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501849052635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501849053726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/tooltooly1"
+1501849055856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501849055869	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501849056334	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/tooltooly1"
+JavaScript error: resource://gre/modules/FormHistory.jsm, line 377: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [mozIStorageService.openUnsharedDatabase]
+1501849057438	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/tooltooly1"
+1501849057979	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tooltooly1"
+1501849057999	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/tooltooly1"
+1501849059277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501849059280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501849059283	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501849059288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501849059292	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501849061566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501849062403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1501849062408	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1501849065793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501849065829	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1501849065879	Marionette	DEBUG	Received DOM event "DOMC1501849257628	Marionette	INFO	Ceased listening
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+1501849261960	Marionette	INFO	Ceased listening
