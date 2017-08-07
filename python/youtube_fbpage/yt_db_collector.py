@@ -11,6 +11,11 @@ import requests
 # check start time to calculate running time
 # start_time = time.time()
 
+nba_posting_info = {
+    'title': '',
+    'video_link': '',
+}
+
 nba_video_info = {
     'title': '',
     'video_link': '',
@@ -19,8 +24,36 @@ nba_video_info = {
     'hits': '',
     'updated_time': ''
 }
+def get_nba_posting_info(target_url):
+    '''
+    get_nba_posting_info(target_url) -> dictionary type {'title1' : 't_val', 'video_link': 'v_val"}
+    target_url :  youtube channel page url to crawl
 
-def get_nba_video_link(target_url):
+    '''
+    response = requests.get(target_url)
+    soup = BeautifulSoup(response.text, "lxml")
+    lis = soup.find_all('li', {'class': 'channels-content-item yt-shelf-grid-item'})
+    for li in lis:
+        title = li.find('a', {'title': True})['title']
+        video_link = 'https://www.youtube.com' + li.find('a', {'href': True})['href']
+        """title, videolink
+        <a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" 
+        dir="ltr" title="Cleveland Cavaliers' Top 25 Plays of the 2016-2017 NBA Season" 
+        aria-describedby="description-id-568300"
+        data-sessionlink="ei=im6BWaOMOceAqQHl-r2oDA&feature=c4-videos-u&ved=CDgQlx4iEwij-f3H87fVAhVHQCoKHWV9D8Uomxw"
+        href="/watch?v=4dcH7cajFFg">
+        "Cleveland Cavaliers' Top 25 Plays of the 2016-2017 NBA Season"
+        </a> 
+        """
+        nba_posting_info = {
+            'title': title,
+            'video_link': video_link,
+        }
+        print(nba_posting_info)
+
+    return nba_posting_info
+
+def get_nba_video_info(target_url):
     response = requests.get(target_url)
     soup = BeautifulSoup(response.text, "lxml")
     lis = soup.find_all('li', {'class': 'channels-content-item yt-shelf-grid-item'})
@@ -81,37 +114,45 @@ def get_nba_video_link(target_url):
         # print("title: {0}, video_link: {1}".format(nba_video_info['title'], nba_video_info['video_link'])
     return nba_video_info
 
-def write_in_file(sample_dic):
-    run_date = now_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
-    file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/"
+def write_in_file():
+    run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
+    file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/nba/"
     txt_file_name = file_path + run_date + ".txt"
     print(txt_file_name)
-    print(sample_dic)
+    print(crawled_dic)
 
-    # f_txt = open("/Users/kimeric/GitHubProjects/TIL/python/FastCampus_CSschool/FC_CSS_practice/dataset/accountBook.txt",
-    #              'a')
-    # f_txt.writerow(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
+    f_txt = open(txt_file_name,'a')
+    f_txt.writerows(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
     # f_txt.write()
 
-    # f_txt.close
+    f_txt.close
     return
 
-# sample_dic = {
-#                 'title' : 'this is title',
-#                 'video_link' : "https://www.youtube.com/user/NBA/videos",
-#                 'img_link' : "https://www.naver.com",
-#                 'play_time' : "6:39",
-#                 'hits' : "12944",
-#                 'updated_time' : "2017-08-01",
-#             }
-#
-# write_in_file(sample_dic)
+def csv_maker(crawled_dic):
+    run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
+    file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/nba/"
+    txt_file_name = file_path + run_date + ".txt"
+    return
+
+
 
 
 if __name__ == "__main__":
+    # User_Input
     target_url = 'https://www.youtube.com/user/NBA/videos'
-    get_nba_video_link(target_url)
-    # print(nba_video_info.items())
+    crawled_dic = {
+        'title': 'this is title',
+        'video_link': "https://www.youtube.com/user/NBA/videos",
+        'img_link': "https://www.naver.com",
+        'play_time': "6:39",
+        'hits': "12944",
+        'updated_time': "2017-08-01",
+    }
+
+    # Functions
+    # get_nba_posting_info(target_url)
+    get_nba_video_info(target_url)
+    write_in_file()
 
 
 

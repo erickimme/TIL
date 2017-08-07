@@ -11,14 +11,14 @@ import lxml
 import requests
 
 # self-built modules
-from yt_db_collector import get_nba_video_link
+from yt_db_collector import get_nba_video_info
 from fb_posting import import_posting_data, login_fb_move_to_target_url
 
 
 
 # Create video list from Youtube channel
 target_url = 'https://www.youtube.com/user/NBA/videos'
-get_nba_video_link(target_url)
+get_nba_video_info(target_url)
 
 # Login & Direct to FB page
 

@@ -33,7 +33,7 @@ def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
     soup = BeautifulSoup(driver.page_source, 'lxml')
 
     # see more
-    # time.sleep(10)
+    # time.sleep(5)
     # Type id & password
     type_id = driver.find_element_by_id('email').send_keys(fb_id)
     print ("Email Id entered...")
@@ -54,11 +54,23 @@ def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
     post_all = post_title + '\n' + post_url
 
     # *todo : 여기서 부터 하면됨 로그인해서 페이지 이동해서 포스팅하면 됨
+    # first click to enable posting
     driver.switch_to.alert
 
-    publish_button = driver.find_element_by_xpath("//button[contains(.,'Publish')]")
+    # publish_button = driver.find_element_by_xpath("// *[ @ id = 'rc.u_0_21'] / div / div[1] / div / div[2] / div / div[1]")
+    # publish_button = driver.find_element_by_xpath("//button[contains(.,'Publish')]")
+    # publish_button.click()
 
-    publish_button.click()
+    # frame = driver.find_element_by_xpath('//*[@id="rc.u_0_21"]/div/div[1]/div/div[2]/div/div[1]')
+    # driver.switch_to.frame(frame)
+    pass1 = driver.find_element_by_id("PageComposerPagelet_Admin_View")
+    pass1.click()
+
+    pass2 = driver.fi
+    pass2.click()
+    # write something & publish
+
+
 
     # by_classname = driver.find_element_by_class_name("_1hib _4bl9")
     # by_classname.click()
@@ -102,12 +114,12 @@ def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
 if __name__ == "__main__":
 
     # Credential Info
-    fb_id = "test@test.com"
-    fb_pw = "ㅅㄷㄴㅅtest"
+    fb_id = "test@com"
+    fb_pw = "test"
 
     # Open Firefox
     home_url = "https://www.facebook.com/"
-    page_url = "tooltooly1"
+    page_url = "test"
     target_url = home_url + page_url
 
     login_fb_move_to_target_url(target_url, fb_id, fb_pw)
