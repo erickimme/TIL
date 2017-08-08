@@ -12,7 +12,41 @@ import requests
 
 # opening txt/csv file that includes posting details
 def import_posting_data():
-    f_opened = open("filename.txt", 'r')
+    file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/nba/"
+    csv_file_name = file_path + "%Y%m%d_%H_%M_%S"+ ".csv"
+
+    f_csv_opened = open(file_path, 'r', encoding= 'utf-8', newline = ' ')
+    reader = csv.reader(f_csv_opened)
+
+    header = next(reader) # first row is header, use next func to start next row
+    data = []
+    for row in reader:
+        upload_time = []
+        upload_time = datetime.now().strftime(row[])
+        # row = ['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time']
+
+        run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
+        title = str(row[0])
+        video_link = str(row[1])
+        img_link = str(row[2])
+        play_time = str(row[3])
+        hits = int(row[4])
+        update_time = str(row[5])
+
+        data.append()
+
+
+
+
+
+
+
+    print(header)
+    print(data[0])
+
+
+
+    # f_txt_opened = open("filename.txt", 'r')
     while True:
         text = f_opened.readline()
         if not text:
@@ -20,6 +54,7 @@ def import_posting_data():
         print(text)
     f_opened.close()
     return
+
 
 # login fb -> fb page -> posting
 def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
@@ -114,7 +149,7 @@ def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
 if __name__ == "__main__":
 
     # Credential Info
-    fb_id = "test@com"
+    fb_id = "test@hotmail.com"
     fb_pw = "test"
 
     # Open Firefox

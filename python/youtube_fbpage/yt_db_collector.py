@@ -54,6 +54,11 @@ def get_nba_posting_info(target_url):
     return nba_posting_info
 
 def get_nba_video_info(target_url):
+    # write in csv
+    run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
+    file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/nba/"
+    csv_file_name = file_path + run_date + ".csv"
+
     response = requests.get(target_url)
     soup = BeautifulSoup(response.text, "lxml")
     lis = soup.find_all('li', {'class': 'channels-content-item yt-shelf-grid-item'})
@@ -104,15 +109,19 @@ def get_nba_video_info(target_url):
             'hits': hits,
             'updated_time': updated_time
         }
+
+        csv_file = open(csv_file_name, 'w')
+        writer = csv.writer(csv_file, quoting=csv.QUOTE_NONNUMERIC)
+        writer.writerow(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
+        for value in nba_video_info.items():
+            writer.writerow(value)
+        csv_file.close()
+
+
         # print all values
         print(nba_video_info)
-
-        # print title and video link
-        # print(nba_video_info['title'])
-        # print(nba_video_info['video_link'])
-        # print("title: %s, video_link: $s" % (str(nba_video_info['title']), str(nba_video_info['video_link'])))
-        # print("title: {0}, video_link: {1}".format(nba_video_info['title'], nba_video_info['video_link'])
-    return nba_video_info
+    print("csv file making complete...")
+    return
 
 def write_in_file():
     run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
@@ -122,8 +131,8 @@ def write_in_file():
     print(crawled_dic)
 
     f_txt = open(txt_file_name,'a')
-    f_txt.writerows(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
-    # f_txt.write()
+    # f_txt.writerows(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
+    f_txt.write()
 
     f_txt.close
     return
@@ -131,10 +140,20 @@ def write_in_file():
 def csv_maker(crawled_dic):
     run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
     file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/nba/"
-    txt_file_name = file_path + run_date + ".txt"
+    csv_file_name = file_path + run_date + ".csv"
+
+    csv_file = open(csv_file_name, 'w')
+    writer = csv.writer(csv_file)
+    for key, value in crawled_dic.items():
+        writer.writerow([key, value])
+    csv_file.close()
+
+    # f_csv = open(csv_file_name, 'wb')
+    # writer = csv.writer(f_csv)
+    # writer.writerows(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
+    # f_csv.close()
+    print("csv file making complete...")
     return
-
-
 
 
 if __name__ == "__main__":
@@ -151,8 +170,12 @@ if __name__ == "__main__":
 
     # Functions
     # get_nba_posting_info(target_url)
-    get_nba_video_info(target_url)
-    write_in_file()
+    print(get_nba_video_info(target_url))
+
+
+    # write_in_file()
+    # csv_maker(crawled_dic)
+    # csv_maker(get_nba_video_info(target_url))
 
 
 
