@@ -4489,3 +4489,1004 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-08-08 12:43:20.721 geckodriver[47253:3187751] Metadata.framework [Error]: couldn't get the client port
 2017-08-08 12:43:20.721 geckodriver[62693:3187538] Metadata.framework [Error]: couldn't get the client port
 2017-08-08 12:43:20.721 geckodriver[47271:3187750] Metadata.framework [Error]: couldn't get the client port
+1502331532581	geckodriver	INFO	Listening on 127.0.0.1:51694
+1502331534568	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331539424	Marionette	INFO	Listening on port 51707
+1502331539547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331540158	Marionette	DEBUG	loaded listener.js
+1502331540388	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:19:00.670 plugin-container[11518:748654] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:19:00.675 plugin-container[11518:748654] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x920f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:19:00.675 plugin-container[11518:748654] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331540716	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331540716	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331541727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/test"
+1502331543404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/test"
+1502331544387	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/test"
+1502331546451	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/test"
+1502331546659	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/test"
+1502331546701	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/test"
+1502331546711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400CA,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1502331549737	geckodriver	INFO	Listening on 127.0.0.1:51853
+1502331551518	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331554559	Marionette	INFO	Listening on port 51866
+1502331554707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331555276	Marionette	DEBUG	loaded listener.js
+1502331555378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:19:15.480 plugin-container[11532:749266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:19:15.481 plugin-container[11532:749266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x911f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:19:15.481 plugin-container[11532:749266] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331555692	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331555693	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331556164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/test"
+1502331556984	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/test"
+1502331561092	Marionette	INFO	Ceased listening
+1502331563414	geckodriver	INFO	Listening on 127.0.0.1:51970
+1502331565178	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331567919	Marionette	INFO	Listening on port 51983
+1502331568053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331568326	Marionette	DEBUG	loaded listener.js
+1502331568374	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:19:28.453 plugin-container[11538:749578] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:19:28.454 plugin-container[11538:749578] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x910f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:19:28.454 plugin-container[11538:749578] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331568689	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331568690	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331569174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/test"
+1502331569929	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/test"
+1502331578387	Marionette	INFO	Ceased listening
+1502331622709	geckodriver	INFO	Listening on 127.0.0.1:52182
+1502331625099	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331629247	Marionette	INFO	Listening on port 52195
+1502331629345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331629708	Marionette	DEBUG	loaded listener.js
+1502331629767	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:20:29.865 plugin-container[11559:751598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:20:29.870 plugin-container[11559:751598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x931f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:20:29.870 plugin-container[11559:751598] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331630073	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331630074	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331630555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/Dailyvideonba"
+1502331631289	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/Dailyvideonba"
+1502331651630	geckodriver	INFO	Listening on 127.0.0.1:52351
+1502331653433	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331657272	Marionette	INFO	Listening on port 52364
+1502331657443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331657802	Marionette	DEBUG	loaded listener.js
+1502331657896	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:20:58.002 plugin-container[11571:752024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:20:58.003 plugin-container[11571:752024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x960b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:20:58.003 plugin-container[11571:752024] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331658298	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331658299	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331659091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331660300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331660311	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331660372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331661080	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502331662159	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502331662166	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502331663770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331663775	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331663776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331663778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331664422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502331665463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331665790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331665804	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331669969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331669989	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670014	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670028	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670053	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670155	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670170	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670209	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331670518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQiR7zWqg-3-obiyDkclKeNbfMxl_IjF5Jv94blGOGzifncBfzEB_l12emf92VC7Pf_rnP_TwzWcfhrQDa42ndE&encoded_two=AQR-9SZRT-C83ULyjefYRoF9C3kMJ6dXgyTCR4XFg3Fom8yP1uAA9DZgAl7ejGZBWeGeo5BugA3j242hm_Y0c6bl"
+1502331670522	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQiR7zWqg-3-obiyDkclKeNbfMxl_IjF5Jv94blGOGzifncBfzEB_l12emf92VC7Pf_rnP_TwzWcfhrQDa42ndE&encoded_two=AQR-9SZRT-C83ULyjefYRoF9C3kMJ6dXgyTCR4XFg3Fom8yP1uAA9DZgAl7ejGZBWeGeo5BugA3j242hm_Y0c6bl"
+1502331670670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1502331670906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1502331671767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCylOsvNbyx8ZE8&pageid=1"
+1502331671818	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1618295182&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D1144063710%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1502331671827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1502331671922	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCylOsvNbyx8ZE8&pageid=1"
+1502331673551	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZV5MFX5FrtnESrjtXyUPcNNpLvZbWLqHUvlHCcmyvPq85usl6WjEAhWMMyqNzSu7DqpMU5DXZSvdBX58giM-Gj8Ag-s-kv74TyTkB5ia5f2YA&isv=1&cts=1502331671&csp"
+1502331673554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZXMwRpEu_jZXWPxxyhbTKy2GUqLfKdwVHTwMpaPmO2RhrRrVQ64L0rq21gymqmEfdjJ3NBXdZtwwRki-h8hk5_vOWT-SpKjTBtQrE8kqL4-4g&isv=1&cts=1502331671&csp"
+1502331673556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arcylosvnbyx8ze8"
+1502331673606	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZV5MFX5FrtnESrjtXyUPcNNpLvZbWLqHUvlHCcmyvPq85usl6WjEAhWMMyqNzSu7DqpMU5DXZSvdBX58giM-Gj8Ag-s-kv74TyTkB5ia5f2YA&isv=1&cts=1502331671&csp"
+1502331673620	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZXMwRpEu_jZXWPxxyhbTKy2GUqLfKdwVHTwMpaPmO2RhrRrVQ64L0rq21gymqmEfdjJ3NBXdZtwwRki-h8hk5_vOWT-SpKjTBtQrE8kqL4-4g&isv=1&cts=1502331671&csp"
+1502331673956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331674368	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502331674821	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502331674843	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502331676108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1502331676111	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1502331676113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1502331676119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1502331676123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1502331676128	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1502331676423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331683029	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1502331686676	Marionette	INFO	Ceased listening
+1502331697832	geckodriver	INFO	Listening on 127.0.0.1:52578
+1502331699781	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331703027	Marionette	INFO	Listening on port 52591
+1502331703126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331703483	Marionette	DEBUG	loaded listener.js
+1502331703544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:21:43.655 plugin-container[11584:752989] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:21:43.660 plugin-container[11584:752989] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5207, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:21:43.660 plugin-container[11584:752989] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331703861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331703861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331704347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/Dailyvideonba"
+1502331705176	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/Dailyvideonba"
+1502331721048	geckodriver	INFO	Listening on 127.0.0.1:52717
+1502331722839	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502331726016	Marionette	INFO	Listening on port 52730
+1502331726106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502331726568	Marionette	DEBUG	loaded listener.js
+1502331726740	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 11:22:06.842 plugin-container[11596:753364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:22:06.843 plugin-container[11596:753364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 11:22:06.843 plugin-container[11596:753364] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502331727121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502331727122	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502331727769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331728989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331728998	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331729078	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331729678	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502331730545	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502331730550	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502331731420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331731460	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331731461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331731463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331731470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502331732750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331732770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331732826	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331736897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331736916	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331736917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737015	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737050	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737248	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737299	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737410	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331737428	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502331738527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRWCpJ4gTBTbjxGAgyukZjxXHUBSX50HUJZezv6JLw7yYesDXfUzYpJY1uhWR_4xseT_TKhf1RNW3vT4rMLtkTU&encoded_two=AQT8cRm9nXUetGVHNebCRY6l6EQqlEiYt4sePZb8p_TUWywQyHuefkgy5am7TsxNRIr3__XImWzSNVJkc9ZBOgwX"
+1502331738543	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRWCpJ4gTBTbjxGAgyukZjxXHUBSX50HUJZezv6JLw7yYesDXfUzYpJY1uhWR_4xseT_TKhf1RNW3vT4rMLtkTU&encoded_two=AQT8cRm9nXUetGVHNebCRY6l6EQqlEiYt4sePZb8p_TUWywQyHuefkgy5am7TsxNRIr3__XImWzSNVJkc9ZBOgwX"
+1502331738725	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1502331738732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1502331739058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBjxh5QzFgvEIvK&pageid=1"
+1502331739214	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBjxh5QzFgvEIvK&pageid=1"
+1502331741080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZXfKuOO5mB8OSuP1CWzcKKC4nlEgpeE8nfDBx8-1ThZIXIZoAjsl2B0qSPXP5Kfw1zkE9hL8csUN2CT8lmLt70Zusl4aJaly0FWyKbLYqQrUA&isv=1&cts=1502331739&csp"
+1502331741081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arbjxh5qzfgveivk"
+1502331741178	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/ls_fp.html?org_id=j8ck72di&session_id=arbjxh5qzfgveivk"
+1502331741295	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZXfKuOO5mB8OSuP1CWzcKKC4nlEgpeE8nfDBx8-1ThZIXIZoAjsl2B0qSPXP5Kfw1zkE9hL8csUN2CT8lmLt70Zusl4aJaly0FWyKbLYqQrUA&isv=1&cts=1502331739&csp"
+1502331743333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502331743377	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502331743576	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502331743638	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502331744301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1502331744303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1502331744309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1502331744311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1502331744314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1502331744318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1502331745736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502331750314	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+2017-08-10 11:27:53.890 firefox-bin[11595:753221] CFPasteboardCopyDataReturn __CFPasteboardCopyData(CFPasteboardRef, CFIndex, CFIndex, CFStringRef, Boolean, Boolean) : Lock timeout
+2017-08-10 11:27:53.893 firefox-bin[11558:751468] CFPasteboardBeginGenerationReturn CFPasteboardBeginGeneration(CFPasteboardRef) : Lock timeout
+1502332077363	Marionette	INFO	Ceased listening
+1502332079057	Marionette	INFO	Ceased listening
+1502332083064	Marionette	INFO	Ceased listening
+1502356071345	geckodriver	INFO	Listening on 127.0.0.1:60932
+1502356073194	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502356076074	Marionette	INFO	Listening on port 60946
+1502356076181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502356076422	Marionette	DEBUG	loaded listener.js
+1502356076465	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 18:07:56.551 plugin-container[17430:954902] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 18:07:56.554 plugin-container[17430:954902] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5007, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 18:07:56.554 plugin-container[17430:954902] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502356076749	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502356076750	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502356077333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356078155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356078167	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356078206	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356078790	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502356079449	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502356079455	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502356080137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356080145	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356080146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356080148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356080152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502356083647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356083897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356083902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356085361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356085371	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356085372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356085383	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356085386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356085398	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356085589	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356085763	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502356086107	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502356086124	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502356087141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356087145	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356087146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356087148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356087155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1502356087158	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1502356087160	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1502356087161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1502356087162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1502356087163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1502356088031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356089025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356089037	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356089039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356089047	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356089172	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yu/l/en_US/ly61CW952Q7.js, line 556: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yu/l/en_US/ly61CW952Q7.js, line 891: unreachable code after return statement
+1502356137117	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1502356137414	Marionette	INFO	Ceased listening
+1502356145221	geckodriver	INFO	Listening on 127.0.0.1:61191
+1502356146908	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502356149339	Marionette	INFO	Listening on port 61204
+1502356149440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502356149678	Marionette	DEBUG	loaded listener.js
+1502356149722	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 18:09:09.800 plugin-container[17439:955456] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 18:09:09.805 plugin-container[17439:955456] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 18:09:09.805 plugin-container[17439:955456] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502356150010	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502356150011	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502356150421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356151227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356151237	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356151278	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356151746	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502356152250	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502356152258	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502356152968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356153004	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356153004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356153006	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356153009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502356153883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356153958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356153964	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356155238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155251	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155280	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155302	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155715	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155753	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356155805	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356156212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQTCUIdvhR-5aHZw8C6RD-FJTrXuc_IyrVENyL0rJxJZVVzxmvK5oFKF3aTHWt3TMP7eUdeesoicXMQX3OS95C_p&encoded_two=AQQMKAdVPdl7tmdFIky4Pt7odg8xO8oQZwglANRkfEpJCgmnC4mjCT1313ubCBlg8p0RzUW2Q9hk2FZ2vid4X27d"
+1502356156215	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQTCUIdvhR-5aHZw8C6RD-FJTrXuc_IyrVENyL0rJxJZVVzxmvK5oFKF3aTHWt3TMP7eUdeesoicXMQX3OS95C_p&encoded_two=AQQMKAdVPdl7tmdFIky4Pt7odg8xO8oQZwglANRkfEpJCgmnC4mjCT1313ubCBlg8p0RzUW2Q9hk2FZ2vid4X27d"
+1502356156252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1502356156445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1502356156659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZWNIXjbAaPQDgct1nsftHKgysgj80SpYWrGUWwf5NJ-MrPXe9jeeRV8G7Nzts0eEHg-X057ynhHw7yOiFxDzPN2M_NdXD9v9NyJ45tI_ZeSkg&isv=1&cts=1502356156&csp"
+1502356156659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/xti.php?xt=AZWSz5mN0lYRIZxpyQvpUzHbp9bM_gDA_OghILyrqE-901Al4Sewg8Td-kIk5iPtowpzWPiKyxXC2qUFzZrJotgB7GRSy5goklG1h5YSNfpw8Q&isv=1&cts=1502356156&csp"
+1502356157167	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZWNIXjbAaPQDgct1nsftHKgysgj80SpYWrGUWwf5NJ-MrPXe9jeeRV8G7Nzts0eEHg-X057ynhHw7yOiFxDzPN2M_NdXD9v9NyJ45tI_ZeSkg&isv=1&cts=1502356156&csp"
+1502356157169	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/xti.php?xt=AZWSz5mN0lYRIZxpyQvpUzHbp9bM_gDA_OghILyrqE-901Al4Sewg8Td-kIk5iPtowpzWPiKyxXC2qUFzZrJotgB7GRSy5goklG1h5YSNfpw8Q&isv=1&cts=1502356156&csp"
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yu/l/en_US/ly61CW952Q7.js, line 556: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yu/l/en_US/ly61CW952Q7.js, line 891: unreachable code after return statement
+1502356157624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=664629711&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D2102099527%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1502356157632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1502356158141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBnE9IXKx8TyZfU&pageid=1"
+1502356158309	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBnE9IXKx8TyZfU&pageid=1"
+1502356158701	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356158980	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502356159217	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502356159245	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502356161237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+JavaScript error: https://www.facebook.com/, line 1: ReferenceError: LinkshimAsyncLink is not defined
+1502356161754	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1502356161755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1502356161761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1502356161763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1502356161768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1502356164605	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yu/l/en_US/ly61CW952Q7.js, line 556: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yu/l/en_US/ly61CW952Q7.js, line 891: unreachable code after return statement
+1502356201605	geckodriver	INFO	Listening on 127.0.0.1:61410
+1502356203305	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502356206086	Marionette	INFO	Listening on port 61421
+1502356206190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502356206682	Marionette	DEBUG	loaded listener.js
+1502356206751	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 18:10:06.826 plugin-container[17462:956011] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 18:10:06.827 plugin-container[17462:956011] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x931f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 18:10:06.827 plugin-container[17462:956011] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502356207424	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502356207425	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502356208035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502356210245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356210256	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356210377	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502356211512	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502356212107	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502356212128	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502356212777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356212781	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356212782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356212785	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356212791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502356213954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356214050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502356214053	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356216407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356216511	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356216512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356216538	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356216539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356216557	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217129	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217143	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217152	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502356217470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRMGaitegi2SIJ2u35FkA8GAckCMU5KZzIpdvraZRlKq7gWC0tMI-ujdbDfaaBMZcyGda7MBUGHGejI8Xg8os6S&encoded_two=AQQZ0zTglJYHUdY2gqExYEaRTmdPLXwF9Bz3BB8aBojevDdMXC4JU44KU6p-A4Sp_0QV4BXTYV8OjEG0RDm4aqP2"
+1502356217477	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQRMGaitegi2SIJ2u35FkA8GAckCMU5KZzIpdvraZRlKq7gWC0tMI-ujdbDfaaBMZcyGda7MBUGHGejI8Xg8os6S&encoded_two=AQQZ0zTglJYHUdY2gqExYEaRTmdPLXwF9Bz3BB8aBojevDdMXC4JU44KU6p-A4Sp_0QV4BXTYV8OjEG0RDm4aqP2"
+1502356217492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1502356217733	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKml4/yz/l/en_US/u67YfpC1a7z.js, line 343: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKml4/yz/l/en_US/u67YfpC1a7z.js, line 698: unreachable code after return statement
+1502356219060	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=Wu-ZCMSIzlwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=2869215408&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D307401042%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1502356219065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1502356219106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCAE66yDKJu7oJ5&pageid=1"
+1502356219249	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARCAE66yDKJu7oJ5&pageid=1"
+1502356219455	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502356219685	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502356220574	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502356220614	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502356221554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1502356221560	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1502356221563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1502356221572	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1502356222479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKml4/yz/l/en_US/u67YfpC1a7z.js, line 343: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iKml4/yz/l/en_US/u67YfpC1a7z.js, line 698: unreachable code after return statement
+1502356226937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502356227650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502360890978	geckodriver	INFO	Listening on 127.0.0.1:64104
+1502360892814	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502360896257	Marionette	INFO	Listening on port 64115
+1502360896482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502360896824	Marionette	DEBUG	loaded listener.js
+1502360896888	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 19:28:16.977 plugin-container[17672:967363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 19:28:16.981 plugin-container[17672:967363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9127, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 19:28:16.981 plugin-container[17672:967363] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502360898261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502360898261	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502360900367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502360902863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360902879	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360903785	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502360904969	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502360907015	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502360907032	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502360908111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502360908114	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502360908115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502360908118	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502360908129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502360909867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502360909969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1502360909973	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502360911231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911243	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911263	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911274	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911341	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911347	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360911360	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1502360912468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1502360912889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQTc_7e6ctB6AX5igK3ewoigg90Fry4HKC3C2YLHG2sELCdxnPgN6YAI2lOHWV8eyISR9eVLPjXel_Y-fL3Sq5KE&encoded_two=AQSfKLcepbAlJLHKP242y4w8zs0b0EOGqXiOe0LecQdlphlpGCcUbsm62cKmC149Ut5qMwd9h9LOPd2qFlosjEUg"
+1502360912892	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=1&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQTc_7e6ctB6AX5igK3ewoigg90Fry4HKC3C2YLHG2sELCdxnPgN6YAI2lOHWV8eyISR9eVLPjXel_Y-fL3Sq5KE&encoded_two=AQSfKLcepbAlJLHKP242y4w8zs0b0EOGqXiOe0LecQdlphlpGCcUbsm62cKmC149Ut5qMwd9h9LOPd2qFlosjEUg"
+1502360912903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1502360913998	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1939721115&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DOfKoCPXz2VwQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D489838499%26cdct%3D2%26is_vtc%3D1&ipr=y&ulfeg=n"
+1502360914014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1502360914547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBtv59IJjxe1Knj&pageid=1"
+1502360914717	Marionette	DEBUG	Received DOM event "pageshow" for "https://ct-m-fbx.fbsbx.com/fp/tags?org_id=j8ck72di&session_id=ARBtv59IJjxe1Knj&pageid=1"
+1502360914925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1502360915114	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1502360916687	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1502360916702	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1502360917602	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1502360917606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1502360917611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1502360917616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1502360918896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yD/l/en_US/58BdFWz_cgs.js, line 556: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iarB4/yD/l/en_US/58BdFWz_cgs.js, line 891: unreachable code after return statement
+1502360924560	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/Dailyvideonba-134989253771539/"
+1502360924974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1502361063719	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter32
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1502363065213	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1670, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1670, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:585:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:585:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:585:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:585:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+1502367333661	Marionette	INFO	Ceased listening

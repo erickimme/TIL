@@ -54,7 +54,7 @@ def get_nba_posting_info(target_url):
     return nba_posting_info
 
 def get_nba_video_info(target_url):
-    # write in csv
+    # file path
     run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
     file_path = "/Users/kimeric/GitHubProjects/TIL/python/youtube_fbpage/dataset/nba/"
     csv_file_name = file_path + run_date + ".csv"
@@ -62,7 +62,11 @@ def get_nba_video_info(target_url):
     response = requests.get(target_url)
     soup = BeautifulSoup(response.text, "lxml")
     lis = soup.find_all('li', {'class': 'channels-content-item yt-shelf-grid-item'})
+    count = 0
+
     for li in lis:
+        # count += 1
+        # print("li: {}".format(li))
         title = li.find('a', {'title': True})['title']
         video_link = 'https://www.youtube.com' + li.find('a', {'href': True})['href']
         """title, videolink
@@ -92,6 +96,8 @@ def get_nba_video_info(target_url):
         '''
 
         hits = li.find_all('li')[2].text
+        hits_num = ''.join(x for x in hits if x.isdigit()) #get integer from string
+
         updated_time = li.find_all('li')[3].text
         '''hits & updated_time
         <ul class="yt-lockup-meta-info">
@@ -106,21 +112,38 @@ def get_nba_video_info(target_url):
             'video_link': video_link,
             'img_link': img_link,
             'play_time': play_time,
-            'hits': hits,
+            'hits': hits_num,
             'updated_time': updated_time
         }
 
-        csv_file = open(csv_file_name, 'w')
-        writer = csv.writer(csv_file, quoting=csv.QUOTE_NONNUMERIC)
-        writer.writerow(['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time'])
-        for value in nba_video_info.items():
-            writer.writerow(value)
-        csv_file.close()
+
+
+        # csv_file = open(csv_file_name, 'w')
+        # writer = csv.writer(csv_file, quoting=csv.QUOTE_NONNUMERIC)
+        # writer.writerow(['title', 'video_link', 'img_link', 'play_time', 'hits_num', 'updated_time'])
+        # crawled_dic = {
+        #     'title': 'this is title',
+        #     'video_link': "https://www.youtube.com/user/NBA/videos",
+        #     'img_link': "https://www.naver.com",
+        #     'play_time': "6:39",
+        #     'hits': "12944",
+        #     'updated_time': "2017-08-01",
+        # }
+
+        # print("count:", count)
+        # with open(csv_file_name, 'w') as csv_file:
+        #     w = csv.DictWriter(csv_file, nba_video_info.keys())
+        #     w.writeheader()
+        #     while count < 31:
+        #         print("count:", count)
+        #         w.writerow(nba_video_info)
+        #         print("row number %d writerow completed" % count)
+        #         count += 1
 
 
         # print all values
-        print(nba_video_info)
-    print("csv file making complete...")
+        # print(nba_video_info)
+    # print("csv file making complete...")
     return
 
 def write_in_file():
@@ -176,29 +199,6 @@ if __name__ == "__main__":
     # write_in_file()
     # csv_maker(crawled_dic)
     # csv_maker(get_nba_video_info(target_url))
-
-
-
-
-
-
-'''
-# initialize url addresses to crawl
-home_url = "https://www.youtube.com/"
-target_url = "user/NBA/videos" # target page url
-open_url = "https://www.youtube.com/user/NBA/videos" # attatch the remaining address to open
-image = "" # image source url
-count = 0
-print(open_url)
-
-# Build web browser with selenium.
-# Assign your path where the webdriver file located to 'executable_path' as String
-driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
-driver.get(open_url)
-
-# Build bs4
-soup = BeautifulSoup(driver.page_source, 'lxml')
-'''
 
 
 

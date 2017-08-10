@@ -21,8 +21,8 @@ def import_posting_data():
     header = next(reader) # first row is header, use next func to start next row
     data = []
     for row in reader:
-        upload_time = []
-        upload_time = datetime.now().strftime(row[])
+        # upload_time = []
+        # upload_time = datetime.now().strftime(row[])
         # row = ['title', 'video_link', 'img_link', 'play_time', 'hits', 'updated_time']
 
         run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
@@ -48,11 +48,11 @@ def import_posting_data():
 
     # f_txt_opened = open("filename.txt", 'r')
     while True:
-        text = f_opened.readline()
+        text = f_csv_opened.readline()
         if not text:
             break
         print(text)
-    f_opened.close()
+    f_csv_opened.close()
     return
 
 
@@ -149,7 +149,7 @@ def login_fb_move_to_target_url(target_url, fb_id, fb_pw):
 if __name__ == "__main__":
 
     # Credential Info
-    fb_id = "test@hotmail.com"
+    fb_id = "test@test.com"
     fb_pw = "test"
 
     # Open Firefox
@@ -158,6 +158,21 @@ if __name__ == "__main__":
     target_url = home_url + page_url
 
     login_fb_move_to_target_url(target_url, fb_id, fb_pw)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 '''

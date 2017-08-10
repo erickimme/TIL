@@ -1,0 +1,474 @@
+1502375526803	geckodriver	INFO	Listening on 127.0.0.1:63798
+1502375528706	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502375532315	Marionette	INFO	Listening on port 63811
+1502375532401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502375532785	Marionette	DEBUG	loaded listener.js
+1502375532840	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:32:12.947 plugin-container[18804:1033698] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:32:12.950 plugin-container[18804:1033698] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x510b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:32:12.950 plugin-container[18804:1033698] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502375532969	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502375532969	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502375534460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502375534479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502375534484	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502375536477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502375536614	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502375537010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://gum.criteo.com/syncframe"
+1502375537012	Marionette	DEBUG	Received DOM event "pageshow" for "http://gum.criteo.com/syncframe"
+1502375537917	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+JavaScript error: https://ssl.pstatic.net/t.static.blog/nmobile/versioning/LegoPostView-1298777443_https.js, line 1: TypeError: $Element(...) is null
+1502376116188	geckodriver	INFO	Listening on 127.0.0.1:65349
+1502376118107	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502376121470	Marionette	INFO	Listening on port 65363
+1502376121620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502376121968	Marionette	DEBUG	loaded listener.js
+1502376122087	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:42:02.156 plugin-container[18852:1037778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:42:02.160 plugin-container[18852:1037778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:42:02.160 plugin-container[18852:1037778] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502376122256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502376122257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502376124056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376124068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376124072	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376124553	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376140096	geckodriver	INFO	Listening on 127.0.0.1:49166
+1502376141961	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502376145040	Marionette	INFO	Listening on port 49177
+1502376145202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502376145554	Marionette	DEBUG	loaded listener.js
+1502376145608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:42:25.695 plugin-container[18861:1038153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:42:25.697 plugin-container[18861:1038153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9113, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:42:25.697 plugin-container[18861:1038153] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502376145723	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502376145724	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502376147384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376147439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376147444	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376149296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376149394	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376149838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://gum.criteo.com/syncframe"
+1502376149842	Marionette	DEBUG	Received DOM event "pageshow" for "http://gum.criteo.com/syncframe"
+1502376150406	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502376164512	geckodriver	INFO	Listening on 127.0.0.1:49352
+1502376165372	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502376168707	Marionette	INFO	Listening on port 49361
+1502376168867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502376169198	Marionette	DEBUG	loaded listener.js
+1502376169256	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:42:49.365 plugin-container[18876:1038545] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:42:49.366 plugin-container[18876:1038545] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:42:49.366 plugin-container[18876:1038545] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502376169421	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502376169421	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502376171085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376171103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376171107	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376172675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376172714	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376173438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://gum.criteo.com/syncframe"
+1502376173444	Marionette	DEBUG	Received DOM event "pageshow" for "http://gum.criteo.com/syncframe"
+1502376174247	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376187551	geckodriver	INFO	Listening on 127.0.0.1:49534
+1502376188462	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502376193357	Marionette	INFO	Listening on port 49543
+1502376193484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502376194178	Marionette	DEBUG	loaded listener.js
+1502376194260	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:43:14.389 plugin-container[18890:1038905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:43:14.394 plugin-container[18890:1038905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x930f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:43:14.394 plugin-container[18890:1038905] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502376194416	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502376194416	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502376197258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376197293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376197299	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376200769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376200839	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376202053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://gum.criteo.com/syncframe"
+1502376202056	Marionette	DEBUG	Received DOM event "pageshow" for "http://gum.criteo.com/syncframe"
+1502376202670	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376231838	geckodriver	INFO	Listening on 127.0.0.1:49820
+1502376233775	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502376237836	Marionette	INFO	Listening on port 49833
+1502376237962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502376238405	Marionette	DEBUG	loaded listener.js
+1502376238462	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:43:58.557 plugin-container[18916:1039807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:43:58.558 plugin-container[18916:1039807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x911f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:43:58.558 plugin-container[18916:1039807] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502376238609	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502376238610	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502376240354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376240356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376240361	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376240927	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376270382	Marionette	INFO	Ceased listening
+1502376272384	Marionette	INFO	Ceased listening
+1502376274361	Marionette	INFO	Ceased listening
+1502376276740	Marionette	INFO	Ceased listening
+1502376279026	Marionette	INFO	Ceased listening
+1502376306319	geckodriver	INFO	Listening on 127.0.0.1:50140
+1502376308246	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502376311204	Marionette	INFO	Listening on port 50153
+1502376311334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502376311626	Marionette	DEBUG	loaded listener.js
+1502376311684	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-10 23:45:11.772 plugin-container[18927:1040713] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:45:11.775 plugin-container[18927:1040713] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5307, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-10 23:45:11.775 plugin-container[18927:1040713] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502376311813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502376311813	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502376313385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376313420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376313422	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376315044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376315141	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.coupang.com%2F2801591&width&layout=button_count&action=like&show_faces=false&share=false&height=21"
+1502376315793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://gum.criteo.com/syncframe"
+1502376315797	Marionette	DEBUG	Received DOM event "pageshow" for "http://gum.criteo.com/syncframe"
+1502376316811	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
