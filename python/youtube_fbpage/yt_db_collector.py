@@ -64,6 +64,20 @@ def get_nba_video_info(target_url):
     lis = soup.find_all('li', {'class': 'channels-content-item yt-shelf-grid-item'})
     count = 0
 
+    # for header
+    nba_video_info = {
+        'title': '',
+        'video_link': '',
+        'img_link': '',
+        'play_time': '',
+        'hits': '',
+        'updated_time': ''
+    }
+
+    with open(csv_file_name, 'w') as csv_file:
+        w = csv.DictWriter(csv_file, nba_video_info.keys())
+        w.writeheader()
+
     for li in lis:
         # count += 1
         # print("li: {}".format(li))
@@ -116,7 +130,8 @@ def get_nba_video_info(target_url):
             'updated_time': updated_time
         }
 
-
+        # print all values
+        print(nba_video_info)
 
         # csv_file = open(csv_file_name, 'w')
         # writer = csv.writer(csv_file, quoting=csv.QUOTE_NONNUMERIC)
@@ -130,21 +145,20 @@ def get_nba_video_info(target_url):
         #     'updated_time': "2017-08-01",
         # }
 
-        # print("count:", count)
-        # with open(csv_file_name, 'w') as csv_file:
-        #     w = csv.DictWriter(csv_file, nba_video_info.keys())
-        #     w.writeheader()
-        #     while count < 31:
-        #         print("count:", count)
-        #         w.writerow(nba_video_info)
-        #         print("row number %d writerow completed" % count)
-        #         count += 1
+        print("count:", count)
+        with open(csv_file_name, 'a') as csv_file:
+            w = csv.DictWriter(csv_file, nba_video_info.keys())
+            #w.writeheader()
 
+            #print("count:", count)
+            w.writerow(nba_video_info)
+            print("row number %d writerow completed" % count)
+            count += 1
 
-        # print all values
-        # print(nba_video_info)
-    # print("csv file making complete...")
+    print("csv file making complete...")
     return
+
+
 
 def write_in_file():
     run_date = now_time = datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")
