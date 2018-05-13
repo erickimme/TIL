@@ -90,6 +90,7 @@ def login_fb_move_to_target_url(driver, target_url, fb_id, fb_pw):
     driver.find_element_by_id('email').send_keys(fb_id)
 
 
+
     # by_classname = driver.find_element_by_class_name("_1hib _4bl9")
     # by_classname.click()
 
@@ -136,8 +137,8 @@ def yt_uploader():
 if __name__ == "__main__":
 
     # Credential Info
-    fb_id = "test@hotmail.com"
-    fb_pw = "test"
+    fb_id = ""
+    fb_pw = ""
 
     # Open Firefox
     home_url = "https://www.facebook.com/"

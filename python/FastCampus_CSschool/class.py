@@ -116,7 +116,12 @@
 
 # WEEK3_ OOP
 
-from openpyxl import *
-wb = load_workbook('exam.xlsx')
+# from openpyxl import *
+# wb = load_workbook('exam.xlsx')
+#
+#
+
+
+
 
 

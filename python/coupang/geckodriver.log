@@ -472,3 +472,22 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1502376315793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://gum.criteo.com/syncframe"
 1502376315797	Marionette	DEBUG	Received DOM event "pageshow" for "http://gum.criteo.com/syncframe"
 1502376316811	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502376855245	Marionette	INFO	Ceased listening
+1502376858661	Marionette	INFO	Ceased listening
+1502424617223	geckodriver	INFO	Listening on 127.0.0.1:50085
+1502424619196	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502424621980	Marionette	INFO	Listening on port 50099
+1502424622055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502424622383	Marionette	DEBUG	loaded listener.js
+1502424622424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-11 13:10:22.505 plugin-container[1366:17386] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-11 13:10:22.508 plugin-container[1366:17386] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-11 13:10:22.508 plugin-container[1366:17386] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502424622543	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502424622543	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502424623704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502424623719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502424623724	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
+1502424624081	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.coupang.com/vp/products/2801591?itemId=14692254&vendorItemId=3002041112&q=%ED%94%BC%EC%A7%80%EC%98%A4%EA%B2%94&itemsCount=36&searchId=a4f42676db164355abac4e6735dbc962&vendorItemId=3002041112&rank=1"
