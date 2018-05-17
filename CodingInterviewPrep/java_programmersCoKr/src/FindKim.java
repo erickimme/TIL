@@ -21,7 +21,7 @@ public class FindKim {
         }
         return "김서방은 "+ x + "에 있다";
     }
-
+/*
 //    // 1) best answer//
     public String findKim(String[] seoul){
         //x에 김서방의 위치를 저장하세요.
@@ -31,6 +31,7 @@ public class FindKim {
 
         return "김서방은 "+ x + "에 있다";
     }
+
 
 //    // 2) enhanced for loop -> for :
     public String findKim(String[] seoul){
@@ -60,7 +61,7 @@ public class FindKim {
 
         return "김서방은 "+ x + "에 있다";
     }
-
+*/
 
     // 실행을 위한 테스트코드입니다.
     public static void main(String[] args) {
