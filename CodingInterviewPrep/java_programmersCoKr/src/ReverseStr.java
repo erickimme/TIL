@@ -48,22 +48,17 @@ public class ReverseStr {
         return result;
     }
 
-
-    public class reverseStr4 {
-        public String reverseStr(String str) {
+    public String reverseStr4(String str) {
             String[] array = str.split("");
             Arrays.sort(array);
             Collections.reverse(Arrays.asList(array));
             return String.join("", array);
-        }
     }
 
-    public class reverseStr5 {
-        public String reverseStr(String str) {
+    public String reverseStr5(String str) {
             char[] sol = str.toCharArray();
             Arrays.sort(sol);
             return new StringBuilder(new String(sol)).reverse().toString();
-        }
     }
 
     // 아래는 테스트로 출력해 보기 위한 코드입니다.
@@ -73,6 +68,7 @@ public class ReverseStr {
         System.out.println( rs.reverseStr1("Zbcdefg") );
         System.out.println( rs.reverseStr2("Zbcdefg") );
         System.out.println( rs.reverseStr3("Zbcdefg") );
+        System.out.println( rs.reverseStr4("Zbcdefg") );
         System.out.println( rs.reverseStr5("Zbcdefg") );
     }
 }
