@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Divisible.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Divisible.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Divisible.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -97,6 +97,16 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#853#862#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumDivisor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sumDivisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,13 +146,14 @@
         <option value="$PROJECT_DIR$/src/SumMatrix.java" />
         <option value="$PROJECT_DIR$/src/ReverseStr.java" />
         <option value="$PROJECT_DIR$/src/Divisible.java" />
+        <option value="$PROJECT_DIR$/src/sumDivisor.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1080" />
-    <option name="height" value="877" />
+    <option name="width" value="1920" />
+    <option name="height" value="529" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -193,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Divisible">
+  <component name="RunManager" selected="Application.SumDivisor">
     <configuration name="Divisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Divisible" />
@@ -222,9 +233,9 @@
       <module name="java_programmersCoKr" />
       <envs />
     </configuration>
-    <configuration name="GetMean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="GetMean" />
+      <option name="MAIN_CLASS_NAME" value="ReverseStr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -236,9 +247,9 @@
       <module name="java_programmersCoKr" />
       <envs />
     </configuration>
-    <configuration name="ReverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SumDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ReverseStr" />
+      <option name="MAIN_CLASS_NAME" value="SumDivisor" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -345,19 +356,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GetMean" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EvenOrOdd" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SumMatrix" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReverseStr" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Divisible" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EvenOrOdd" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SumMatrix" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReverseStr" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Divisible" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SumDivisor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Divisible" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReverseStr" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SumMatrix" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EvenOrOdd" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GetMean" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SumDivisor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Divisible" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReverseStr" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SumMatrix" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -375,8 +386,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1080" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -397,12 +407,12 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32097188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32016632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3414322" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27754676" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13791268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -508,6 +518,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#853#862#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sumDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
