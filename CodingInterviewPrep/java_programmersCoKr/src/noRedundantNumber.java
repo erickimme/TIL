@@ -39,7 +39,7 @@ import java.util.*;
 //}
 public class noRedundantNumber {
     
-
+    // array
     public static int[] noRedundantNumber1(int []arr) {
         int len = arr.length;
         int[] answer = new int[len];
@@ -64,6 +64,7 @@ public class noRedundantNumber {
         return finalAnswer;
     }
 
+    // arraylist, array
     public static int[] noRedundantNumber2(int [] arr){
         ArrayList<Integer> list = new ArrayList<>();
         int num = arr[0];
@@ -84,6 +85,7 @@ public class noRedundantNumber {
         return answer;
     }
 
+    // arraylist, array
     public static int[] noRedundantNumber3(int [] arr){
         ArrayList<Integer> numlist = new ArrayList<Integer>();
         if (arr.length <= 1000000) {
@@ -108,6 +110,22 @@ public class noRedundantNumber {
         return answer;
     }
 
+    // Stringbuilder
+    public int[] noRedundantNumber4(int []arr) {
+        StringBuilder sb = new StringBuilder();
+        int size = arr.length;
+        sb.append(arr[0]);
+        for(int i=1; i<size; i++){
+            if(arr[i-1]!=arr[i]) sb.append(arr[i]);
+        }
+        String[] array = sb.toString().split("");
+        size = array.length;
+        int[] answer = new int[size];
+        for(int i=0; i<size; i++){
+            answer[i] = Integer.parseInt(array[i]);
+        }
+        return answer;
+    }
 
     public static void main(String[] args) {
         int[] test1 = {1, 1, 3, 3, 0, 1, 1};
