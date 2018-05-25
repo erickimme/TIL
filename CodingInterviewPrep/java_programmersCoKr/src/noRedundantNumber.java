@@ -111,7 +111,7 @@ public class noRedundantNumber {
     }
 
     // Stringbuilder
-    public int[] noRedundantNumber4(int []arr) {
+    public static int[] noRedundantNumber4(int []arr) {
         StringBuilder sb = new StringBuilder();
         int size = arr.length;
         sb.append(arr[0]);
@@ -137,6 +137,8 @@ public class noRedundantNumber {
         noRedundantNumber2(test2);
         noRedundantNumber3(test1);
         noRedundantNumber3(test2);
+        noRedundantNumber4(test1);
+        noRedundantNumber4(test2);
 
     }
 }
